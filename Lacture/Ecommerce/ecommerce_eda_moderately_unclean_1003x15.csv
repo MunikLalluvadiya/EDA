@@ -1,0 +1,1004 @@
+order_id,customer_id,order_date,customer_age,gender,city,state,category,product,quantity,unit_price,discount,payment_method,delivery_days,rating
+O0627,C1128,2025-01-09,32.0,Female,Surat,Gujarat,Home,Mixer,2,4548.29,15.0,Debit Card,3,5.0
+O0630,C1106,2025-09-23,50.0,Female,Hyderabad,Telangana,Electronics,Smartwatch,4,4109.43,10.0,UPI,5,3.0
+O0848,C1248,2025-06-20,54.0,Male,Ahmedabad,Gujarat,Books,Novel,2,467.56,10.0,UPI,4,5.0
+O0515,C1229,2025-04-10,56.0,Female,Jaipur,Rajasthan,Beauty,Moisturizer,1,561.3,10.0,UPI,3,5.0
+O0366,C1267,2025-11-05,42.0,Male,Bengaluru,Karnataka,Books,Cookbook,3,790.3,5.0,Net Banking,3,5.0
+O0904,C1095,2025-06-24,50.0,Female,Mumbai,Maharashtra,Clothing,T-Shirt,3,906.93,10.0,Credit Card,3,4.0
+O0656,C1240,2025-12-25,52.0,Female,Mumbai,Maharashtra,Beauty,Shampoo,3,348.31,20.0,Net Banking,3,2.0
+O0529,C1051,2025-09-26,31.0,Male,Indore,Madhya Pradesh,Electronics,Headphones,2,1874.19,10.0,Debit Card,2,5.0
+O0322,C1242,2025-02-06,33.0,Male,Ahmedabad,Gujarat,Home,Cookware Set,1,1789.57,15.0,UPI,1,5.0
+O0071,C1199,2025-12-06,49.0,Female,Pune,Maharashtra,Home,Cookware Set,5,4691.43,5.0,Credit Card,1,5.0
+O0791,C1057,2025-09-12,23.0,Female,Jaipur,Rajasthan,Books,Programming Book,2,602.94,5.0,UPI,6,3.0
+O0372,C1253,2025-01-16,36.0,Female,Vadodara,Gujarat,Electronics,Smartwatch,2,9124.63,10.0,UPI,2,5.0
+O0835,C1272,2025-07-26,35.0,Male,Pune,Maharashtra,Electronics,Laptop,1,76630.92,10.0,UPI,1,5.0
+O0457,C1169,2025-01-11,44.0,Male,Hyderabad,Telangana,Electronics,Smartphone,2,31671.28,5.0,UPI,4,4.0
+O0248,C1202,2025-06-18,34.0,Female,Hyderabad,Telangana,Books,Cookbook,5,615.08,0.0,Credit Card,7,3.0
+O0959,C1072,2025-10-27,57.0,Female,Surat,Gujarat,Books,Programming Book,2,1539.45,15.0,UPI,5,4.0
+O0827,C1104,2025-06-15,29.0,Male,Bengaluru,Karnataka,Beauty,Face Wash,2,883.54,10.0,UPI,5,4.0
+O0978,C1109,2025-12-25,54.0,Female,Indore,Madhya Pradesh,Electronics,Smartwatch,2,4919.29,5.0,UPI,4,4.0
+O0299,C1004,2025-07-11,60.0,Male,Delhi,Delhi,Electronics,Smartwatch,1,13308.24,0.0,Credit Card,3,5.0
+O0102,C1242,2025-06-09,33.0,Male,Surat,Gujarat,Electronics,Laptop,1,79770.38,10.0,UPI,3,5.0
+O0752,C1008,2025-11-08,36.0,Male,Pune,Maharashtra,Electronics,Headphones,3,1583.53,5.0,UPI,2,5.0
+O0605,C1280,2025-06-12,50.0,Female,Indore,Madhya Pradesh,Beauty,Face Wash,2,789.91,10.0,Credit Card,5,4.0
+O0214,C1171,2025-07-05,54.0,Female,Hyderabad,Telangana,Books,Self-Help Book,1,690.4,15.0,Debit Card,3,5.0
+O0238,C1032,2025-04-21,32.0,Male,Bengaluru,Karnataka,Electronics,Headphones,2,3028.16,10.0,Credit Card,6,2.0
+O0869,C1229,2025-06-25,56.0,Female,Pune,Maharashtra,Electronics,Smartwatch,2,9877.89,5.0,Debit Card,6,2.0
+O0282,C1110,2025-11-22,52.0,Female,Jaipur,Rajasthan,Electronics,Smartwatch,2,5807.94,15.0,Debit Card,5,3.0
+O0378,C1172,2025-08-12,50.0,Male,Bengaluru,Karnataka,Books,Self-Help Book,1,539.5,5.0,Cash on Delivery,2,4.0
+O0287,C1114,2025-03-02,52.0,Male,Jaipur,Rajasthan,Home,Cookware Set,2,4429.92,10.0,Debit Card,5,5.0
+O0389,C1150,2025-03-05,59.0,Female,Surat,Gujarat,Electronics,Smartwatch,1,7450.01,0.0,Net Banking,5,3.0
+O0883,C1107,2025-06-12,40.0,Male,Jaipur,Rajasthan,Beauty,Moisturizer,1,1356.3,0.0,UPI,3,5.0
+O0717,C1107,2025-11-20,40.0,Male,Ahmedabad,Gujarat,Home,Bedsheet,2,1673.78,10.0,Cash on Delivery,6,3.0
+O0793,C1083,2025-04-12,42.0,Male,Ahmedabad,Gujarat,Clothing,Shoes,1,5120.89,15.0,Cash on Delivery,3,4.0
+O0097,C1021,2025-02-21,55.0,Male,Pune,Maharashtra,Electronics,Headphones,1,7306.61,15.0,UPI,6,3.0
+O0245,C1007,2025-05-20,56.0,Female,Surat,Gujarat,Clothing,Jacket,5,4522.18,10.0,UPI,2,4.0
+O0735,C1249,2025-03-29,49.0,Male,Vadodara,Gujarat,Home,Mixer,1,3999.31,15.0,Credit Card,3,4.0
+O0077,C1084,2025-01-12,24.0,Male,Jaipur,Rajasthan,Clothing,Jacket,2,3914.62,10.0,Cash on Delivery,3,5.0
+O0897,C1167,2025-10-07,23.0,Female,Indore,Madhya Pradesh,Beauty,Face Wash,1,512.74,20.0,Cash on Delivery,4,4.0
+O0210,C1210,2025-04-19,33.0,Male,Vadodara,Gujarat,Home,Cookware Set,2,2241.98,10.0,Cash on Delivery,2,5.0
+O0260,C1037,2025-05-15,26.0,Female,Vadodara,Gujarat,Beauty,Perfume,3,2400.26,10.0,UPI,4,4.0
+O0159,C1134,2025-10-04,49.0,Female,Bengaluru,Karnataka,Home,Cookware Set,3,3149.09,10.0,Credit Card,3,4.0
+O0496,C1226,2025-02-08,58.0,Male,Hyderabad,Telangana,Books,Cookbook,2,654.9,20.0,Cash on Delivery,2,4.0
+O0526,C1012,2025-10-06,41.0,Female,Pune,Maharashtra,Clothing,Jeans,1,2659.88,5.0,Cash on Delivery,4,4.0
+O0332,C1045,2025-08-18,19.0,Female,Indore,Madhya Pradesh,Beauty,Shampoo,1,598.46,5.0,UPI,2,5.0
+O0952,C1048,2025-08-31,24.0,Male,Ahmedabad,Gujarat,Clothing,Shoes,1,3383.01,10.0,Credit Card,3,5.0
+O0315,C1218,2025-08-26,53.0,Female,Hyderabad,Telangana,Books,Cookbook,2,618.93,10.0,UPI,3,4.0
+O0295,C1293,2025-09-30,55.0,Female,Jaipur,Rajasthan,Books,Programming Book,4,1304.69,15.0,UPI,3,3.0
+O0382,C1015,2025-07-19,41.0,Male,Bengaluru,Karnataka,Beauty,Perfume,2,3688.84,10.0,UPI,4,4.0
+O0920,C1063,2025-12-08,51.0,Female,Pune,Maharashtra,Electronics,Laptop,1,78918.87,10.0,Credit Card,4,5.0
+O0573,C1253,2025-04-13,36.0,Female,Surat,Gujarat,Clothing,Shoes,2,4403.57,15.0,Credit Card,1,5.0
+O0875,C1214,2025-05-18,33.0,Male,Delhi,Delhi,Clothing,Jeans,2,1921.13,0.0,Debit Card,3,3.0
+O0517,C1242,2025-11-09,33.0,Male,Jaipur,Rajasthan,Electronics,Smartwatch,2,5437.89,5.0,Credit Card,2,5.0
+O0718,C1025,2025-03-27,29.0,Male,Vadodara,Gujarat,Clothing,Shoes,1,5161.27,10.0,Debit Card,2,4.0
+O0060,C1038,2025-04-24,56.0,Female,Hyderabad,Telangana,Electronics,Laptop,5,66304.1,0.0,Cash on Delivery,7,4.0
+O0674,C1087,2025-06-25,18.0,Female,Ahmedabad,Gujarat,Home,Bedsheet,1,2310.76,5.0,Debit Card,2,5.0
+O0558,C1047,2025-07-18,45.0,Male,Delhi,Delhi,Electronics,Smartphone,4,19943.53,0.0,Net Banking,4,4.0
+O0744,C1074,2025-06-05,33.0,Male,Ahmedabad,Gujarat,Electronics,Smartphone,3,23664.76,15.0,Credit Card,6,3.0
+O0381,C1067,2025-11-12,48.0,Female,Hyderabad,Telangana,Clothing,Jacket,2,2265.05,0.0,UPI,4,5.0
+O0055,C1140,2025-02-21,32.0,Male,Pune,Maharashtra,Books,Novel,1,244.71,15.0,Net Banking,3,4.0
+O0024,C1010,2025-01-15,28.0,Male,Ahmedabad,Gujarat,Clothing,Jeans,2,1205.83,5.0,Credit Card,4,4.0
+O0031,C1180,2025-03-04,29.0,Female,Ahmedabad,Gujarat,Clothing,Shoes,2,3130.77,10.0,UPI,4,4.0
+O0954,C1135,2025-03-06,21.0,Female,Mumbai,Maharashtra,Books,Programming Book,1,691.78,0.0,Credit Card,2,3.0
+O0430,C1130,2025-07-22,59.0,Female,Jaipur,Rajasthan,Clothing,Jeans,1,1826.21,5.0,UPI,4,5.0
+O0011,C1274,2025-10-27,52.0,Male,Surat,Gujarat,Clothing,Jacket,1,2575.91,5.0,UPI,3,4.0
+O0654,C1026,2025-05-03,39.0,Female,Indore,Madhya Pradesh,Books,Self-Help Book,1,546.46,5.0,Net Banking,2,5.0
+O0809,C1043,2025-11-30,26.0,Male,Surat,Gujarat,Electronics,Laptop,1,61750.36,0.0,Credit Card,3,4.0
+O0483,C1185,2025-01-17,34.0,Male,Pune,Maharashtra,Electronics,Smartphone,1,39890.6,15.0,Credit Card,5,5.0
+O0446,C1262,2025-01-10,53.0,Male,Bengaluru,Karnataka,Electronics,Headphones,2,5296.79,10.0,UPI,3,5.0
+O0200,C1072,2025-06-11,57.0,Female,Vadodara,Gujarat,Electronics,Smartwatch,1,2576.11,15.0,Debit Card,2,5.0
+O0501,C1259,2025-08-05,41.0,Male,Indore,Madhya Pradesh,Books,Programming Book,2,1777.98,15.0,Debit Card,3,4.0
+O0905,C1090,2025-12-26,28.0,Male,Surat,Gujarat,Clothing,Jacket,3,3058.73,5.0,Credit Card,2,5.0
+O0108,C1106,2025-08-25,50.0,Female,Jaipur,Rajasthan,Electronics,Laptop,1,75246.53,10.0,Cash on Delivery,6,4.0
+O0219,C1017,2025-12-17,39.0,Female,Jaipur,Rajasthan,Electronics,Smartwatch,2,4260.04,15.0,Credit Card,2,5.0
+O0421,C1112,2025-10-18,39.0,Male,Ahmedabad,Gujarat,CLOTHING,Bedsheet,2,1266.33,15.0,Cash on Delivery,4,4.0
+O0175,C1245,2025-07-02,18.0,Female,Hyderabad,Telangana,Home,Bedsheet,4,1228.28,5.0,UPI,4,4.0
+O0895,C1066,2025-01-09,31.0,Male,Vadodara,Gujarat,Electronics,Smartwatch,1,7461.1,5.0,Credit Card,3,4.0
+O0519,C1234,2025-05-21,45.0,Male,Surat,Gujarat,Electronics,Smartphone,1,18505.42,15.0,Credit Card,2,4.0
+O0454,C1251,2025-07-01,58.0,Male,Indore,Madhya Pradesh,Clothing,T-Shirt,1,1044.88,0.0,Credit Card,2,3.0
+O0929,C1041,2025-02-08,42.0,Male,Ahmedabad,Gujarat,Beauty,Moisturizer,1,423.65,0.0,UPI,2,5.0
+O0040,C1128,2025-10-05,32.0,Female,Surat,Gujarat,Electronics,Smartphone,2,32936.02,10.0,Credit Card,2,5.0
+O0707,C1112,2025-07-02,39.0,Male,Delhi,Delhi,Electronics,Headphones,1,7471.69,20.0,Credit Card,6,3.0
+O0947,C1015,2025-08-27,41.0,Male,Vadodara,Gujarat,Clothing,Jeans,1,1343.39,10.0,UPI,5,4.0
+O0352,C1042,2025-03-30,31.0,Female,Delhi,Delhi,Electronics,Smartphone,2,19270.26,0.0,Net Banking,2,5.0
+O0067,C1029,2025-03-16,59.0,Male,Surat,Gujarat, electronics ,Smartphone,1,23837.81,0.0,Credit Card,6,4.0
+O0278,C1044,2025-10-04,43.0,Male,Bengaluru,Karnataka,Beauty,Shampoo,1,510.22,0.0,UPI,4,4.0
+O0068,C1288,2025-01-21,50.0,Female,Mumbai,Maharashtra,Electronics,Smartphone,1,37907.89,20.0,UPI,3,5.0
+O0906,C1116,2025-03-27,52.0,Female,Delhi,Delhi,Home,Lamp,4,2431.68,15.0,Credit Card,2,5.0
+O0733,C1077,2025-09-21,43.0,Male,Pune,Maharashtra,Home,Lamp,2,922.01,5.0,Credit Card,5,4.0
+O0817,C1160,2025-07-17,50.0,Female,Indore,Madhya Pradesh,Clothing,Jacket,1,4976.97,0.0,Cash on Delivery,3,4.0
+O0297,C1216,2025-07-11,20.0,Female,Pune,Maharashtra,Electronics,Smartwatch,5,9123.52,0.0,UPI,1,5.0
+O0618,C1287,2025-01-20,34.0,Male,Hyderabad,Telangana,Beauty,Face Wash,2,785.77,0.0,UPI,1,4.0
+O0598,C1057,2025-02-12,23.0,Female,Bengaluru,Karnataka,Books,Cookbook,1,666.3,0.0,Credit Card,6,4.0
+O0815,C1058,2025-02-03,59.0,Female,Indore,Madhya Pradesh,Clothing,Jacket,1,2884.78,10.0,Debit Card,3,5.0
+O0798,C1278,2025-09-08,50.0,Male,Surat,Gujarat,Books,Self-Help Book,3,775.84,10.0,Debit Card,4,3.0
+O0424,C1206,2025-12-27,51.0,Male,Surat,Gujarat,Home,Lamp,1,1901.87,10.0,Cash on Delivery,4,5.0
+O0757,C1035,2025-09-10,24.0,Female,Surat,Gujarat,Clothing,Jeans,5,2163.3,15.0,Credit Card,1,5.0
+O0313,C1102,2025-12-05,26.0,Male,Surat,Gujarat,Electronics,Smartwatch,3,9059.2,5.0,UPI,1,5.0
+O0185,C1294,2025-02-14,55.0,Male,Vadodara,Gujarat,Beauty,Moisturizer,2,1310.07,10.0,UPI,2,5.0
+O0333,C1146,2025-01-04,24.0,Female,Jaipur,Rajasthan,Electronics,Laptop,3,74259.86,0.0,Cash on Delivery,3,4.0
+O0089,C1285,2025-08-22,24.0,Male,Indore,Madhya Pradesh,Books,Programming Book,2,1170.27,10.0,UPI,1,5.0
+O0064,C1295,2025-11-22,25.0,Male,Ahmedabad,Gujarat,Electronics,Laptop,1,67393.77,5.0,UPI,5,4.0
+O0830,C1040,2025-12-09,21.0,Male,Delhi,Delhi,Electronics,Headphones,5,6812.57,10.0,UPI,3,4.0
+O0803,C1156,2025-04-11,28.0,Female,Mumbai,Maharashtra,Clothing,Jacket,5,4996.48,15.0,Credit Card,4,5.0
+O0216,C1012,2025-08-13,41.0,Female,Pune,Maharashtra,Electronics,Headphones,5,5595.92,15.0,UPI,6,4.0
+O0604,C1213,2025-12-19,23.0,Female,Pune,Maharashtra,Beauty,Shampoo,1,817.59,10.0,UPI,2,5.0
+O0548,C1198,2025-11-11,23.0,Female,Hyderabad,Telangana,Books,Programming Book,2,1563.79,5.0,Cash on Delivery,3,4.0
+O0291,C1064,2025-09-25,27.0,Male,Indore,Madhya Pradesh,Beauty,Face Wash,1,708.34,10.0,Cash on Delivery,2,5.0
+O0787,C1134,2025-10-20,49.0,Female,Indore,Madhya Pradesh,Electronics,Smartphone,3,30543.96,10.0,Debit Card,6,3.0
+O0887,C1084,2025-12-14,24.0,Male,Vadodara,Gujarat,Clothing,Shoes,1,3882.46,5.0,Debit Card,6,3.0
+O0963,C1220,2025-08-28,43.0,Male,Pune,Maharashtra,Home,Lamp,2,1938.07,0.0,Credit Card,1,5.0
+O0942,C1072,2025-11-06,57.0,Female,Delhi,Delhi,Home,Mixer,2,4607.6,15.0,Cash on Delivery,7,3.0
+O0741,C1066,2025-07-05,31.0,Male,Ahmedabad,Gujarat,Clothing,T-Shirt,1,772.12,0.0,Debit Card,1,4.0
+O0681,C1213,2025-06-23,23.0,Female,Surat,Gujarat,Books,Self-Help Book,2,690.03,0.0,UPI,7,3.0
+O0694,C1125,2025-10-28,44.0,Female,Mumbai,Maharashtra,Clothing,Jacket,1,4149.67,10.0,Debit Card,4,4.0
+O0989,C1236,2025-07-09,40.0,Male,Hyderabad,Telangana,Books,Novel,2,670.63,20.0,UPI,2,5.0
+O0310,C1149,2025-06-29,19.0,Male,Indore,Madhya Pradesh,Electronics,Laptop,2,54069.65,10.0,Debit Card,2,5.0
+O0087,C1156,2025-09-02,28.0,Female,Mumbai,Maharashtra,Books,Self-Help Book,1,425.34,10.0,Net Banking,1,5.0
+O0849,C1154,2025-12-27,37.0,Male,Vadodara,Gujarat,Clothing,Shoes,2,5724.42,10.0,UPI,2,4.0
+O0785,C1221,2025-03-10,20.0,Female,Ahmedabad,Gujarat,Home,Bedsheet,4,1773.13,5.0,UPI,4,5.0
+O0311,C1137,2025-04-17,54.0,Male,Surat,Gujarat,Beauty,Face Wash,1,739.93,5.0,Credit Card,5,4.0
+O0536,C1231,2025-08-04,57.0,Female,Delhi,Delhi,Beauty,Moisturizer,1,1461.85,20.0,UPI,4,5.0
+O0137,C1070,2025-12-25,31.0,Male,Hyderabad,Telangana,Books,Novel,1,384.15,10.0,Cash on Delivery,4,3.0
+O0871,C1257,2025-12-07,41.0,Female,Hyderabad,Telangana,Clothing,T-Shirt,2,1167.18,0.0,Debit Card,2,5.0
+O0466,C1247,2025-07-04,22.0,Female,Indore,Madhya Pradesh,Beauty,Shampoo,2,483.04,15.0,Credit Card,3,5.0
+O0896,C1196,2025-05-02,43.0,Female,Delhi,Delhi,Beauty,Face Wash,2,278.54,15.0,Cash on Delivery,3,4.0
+O0262,C1021,2025-08-22,55.0,Male,Mumbai,Maharashtra,Beauty,Shampoo,3,584.65,0.0,Net Banking,3,5.0
+O0487,C1024,2025-11-20,50.0,Male,Surat,Gujarat,Books,Cookbook,1,860.1,0.0,UPI,2,5.0
+O0169,C1158,2025-11-20,42.0,Female,Vadodara,Gujarat,Clothing,Jacket,2,3634.72,5.0,UPI,3,5.0
+O0828,C1250,2025-03-04,26.0,Male,Bengaluru,Karnataka,Home,Bedsheet,5,922.23,5.0,UPI,2,5.0
+O0448,C1135,2025-05-25,21.0,Female,Delhi,Delhi,Clothing,Jeans,3,2672.83,5.0,Cash on Delivery,1,5.0
+O0140,C1109,2025-04-23,54.0,Female,Delhi,Delhi,Beauty,Perfume,3,1471.49,10.0,Credit Card,2,5.0
+O0683,C1198,2025-03-28,23.0,Female,Bengaluru,Karnataka,Clothing,Jacket,2,3664.22,15.0,UPI,3,5.0
+O0771,C1080,2025-10-13,46.0,Female,Mumbai,Maharashtra,Clothing,T-Shirt,1,1492.69,15.0,Debit Card,2,5.0
+O0853,C1229,2025-02-03,56.0,Female,Hyderabad,Telangana,Home,Mixer,4,3689.0,0.0,UPI,2,5.0
+O0441,C1272,2025-02-17,35.0,Male,Delhi,Delhi,Clothing,Shoes,1,3737.64,0.0,Cash on Delivery,4,3.0
+O0999,C1018,2025-01-12,19.0,Female,Jaipur,Rajasthan,Electronics,Smartwatch,2,3872.29,0.0,Credit Card,3,4.0
+O0531,C1210,2025-10-24,33.0,Male,Pune,Maharashtra,Books,Cookbook,1,975.14,10.0,Net Banking,1,5.0
+O0056,C1260,2025-08-29,28.0,Male,Delhi,Delhi,Electronics,Smartwatch,2,10096.71,5.0,UPI,2,5.0
+O0121,C1013,2025-09-13,53.0,Female,Pune,Maharashtra,Electronics,Smartphone,1,21959.97,0.0,Credit Card,2,5.0
+O0528,C1273,2025-10-05,19.0,Female,Hyderabad,Telangana,Clothing,T-Shirt,1,1689.29,20.0,Credit Card,4,4.0
+O0026,C1254,2025-07-29,33.0,Male,delhi,Delhi,Books,Self-Help Book,1,510.55,20.0,UPI,4,3.0
+O0073,C1205,2025-06-28,22.0,Male,Vadodara,Gujarat,Electronics,Laptop,1,72218.27,20.0,Debit Card,4,4.0
+O0045,C1232,2025-12-03,18.0,Female,Jaipur,Rajasthan,Home,Bedsheet,4,1894.61,10.0,upi,1,5.0
+O0250,C1166,2025-04-18,56.0,Male,Jaipur,Rajasthan,Books,Programming Book,1,600.07,20.0,UPI,2,4.0
+O0395,C1211,2025-02-14,50.0,Female,Surat,Gujarat,Home,Bedsheet,1,1160.34,0.0,UPI,5,3.0
+O0933,C1114,2025-01-19,52.0,Male,Vadodara,Gujarat,Electronics,Headphones,3,7540.94,15.0,Credit Card,3,5.0
+O0997,C1244,2025-12-17,19.0,Female,Mumbai,Maharashtra,Home,Bedsheet,1,1714.85,20.0,UPI,3,4.0
+O0958,C1264,2025-10-20,57.0,Male,Vadodara,Gujarat,Electronics,Laptop,3,73271.62,5.0,UPI,3,4.0
+O0199,C1201,2025-12-21,28.0,Female,Surat,Gujarat,Beauty,Moisturizer,1,1036.32,10.0,UPI,3,4.0
+O0540,C1069,2025-12-31,25.0,Female,Ahmedabad,Gujarat,Clothing,Jeans,2,1264.94,10.0,UPI,3,5.0
+O0356,C1096,2025-05-29,22.0,Male,Mumbai,Maharashtra,Home,Cookware Set,1,4810.74,0.0,UPI,2,5.0
+O0324,C1205,2025-06-11,22.0,Male,Delhi,Delhi,Home,Lamp,3,1347.1,0.0,Cash on Delivery,2,5.0
+O0946,C1190,2025-08-10,54.0,Female,Mumbai,Maharashtra,Home,Bedsheet,2,1674.87,10.0,Credit Card,4,4.0
+O0768,C1245,2025-06-22,18.0,Female,Mumbai,Maharashtra,Clothing,Jeans,2,2881.93,10.0,Cash on Delivery,5,4.0
+O0236,C1038,2025-07-25,56.0,Female,Bengaluru,Karnataka,Beauty,Moisturizer,1,1318.11,5.0,UPI,4,4.0
+O0977,C1044,2025-01-20,43.0,Male,Ahmedabad,Gujarat,Home,Lamp,1,2445.95,5.0,Credit Card,4,4.0
+O0945,C1124,2025-11-09,56.0,Female,Mumbai,Maharashtra,Clothing,Jacket,2,3025.04,10.0,UPI,2,5.0
+O0939,C1258,2025-11-24,50.0,Male,Hyderabad,Telangana,Books,Novel,4,372.39,5.0,Credit Card,2,5.0
+O0903,C1093,2025-02-19,52.0,Female,Surat,Gujarat,Home,Bedsheet,1,1398.31,5.0,Credit Card,6,3.0
+O0300,C1266,2025-11-09,52.0,Male,Indore,Madhya Pradesh,Clothing,Jeans,1,2248.0,10.0,UPI,3,5.0
+O0061,C1040,2025-06-17,21.0,Male,Surat,Gujarat,Books,Self-Help Book,1,786.04,10.0,Credit Card,2,5.0
+O0328,C1026,2025-01-13,39.0,Female,Mumbai,Maharashtra,Books,Self-Help Book,2,412.35,10.0,UPI,6,4.0
+O0527,C1235,2025-03-13,42.0,Male,Hyderabad,Telangana,Home,Mixer,5,2947.98,10.0,Credit Card,4,5.0
+O0599,C1023,2025-06-25,38.0,Male,Pune,Maharashtra,Electronics,Laptop,1,46453.63,10.0,UPI,3,5.0
+O0814,C1016,2025-01-01,20.0,Female,Hyderabad,Telangana,Electronics,Smartphone,1,40082.12,5.0,UPI,3,4.0
+O0936,C1295,2025-12-03,25.0,Male,Vadodara,Gujarat,Clothing,Shoes,2,2292.69,10.0,Cash on Delivery,1,5.0
+O0981,C1122,2025-05-26,43.0,Female,Delhi,Delhi,Beauty,Moisturizer,1,1467.43,10.0,Credit Card,4,4.0
+O0596,C1275,2025-08-06,33.0,Male,Delhi,Delhi,Books,Programming Book,2,612.61,5.0,Credit Card,1,4.0
+O0542,C1214,2025-08-15,33.0,Male,Indore,Madhya Pradesh,Clothing,Jeans,1,2604.5,5.0,UPI,3,5.0
+O0781,C1173,2025-01-12,59.0,Male,Delhi,Delhi,Books,Novel,5,601.77,5.0,Credit Card,3,4.0
+O0306,C1032,2025-10-14,32.0,Male,Ahmedabad,Gujarat,Beauty,Shampoo,2,797.1,5.0,Net Banking,1,5.0
+O0319,C1282,2025-05-29,38.0,Female,Vadodara,Gujarat,Home,Lamp,4,2291.13,5.0,Debit Card,2,5.0
+O0482,C1194,2025-05-15,36.0,Female,Jaipur,Rajasthan,Home,Bedsheet,1,915.16,0.0,Cash on Delivery,2,5.0
+O0494,C1079,2025-06-18,58.0,Male,Vadodara,Gujarat,Electronics,Smartwatch,1,5254.09,10.0,Credit Card,3,4.0
+O0266,C1045,2025-07-28,19.0,Female,Pune,Maharashtra,Electronics,Smartwatch,2,11484.25,10.0,UPI,2,5.0
+O0111,C1258,2025-12-08,50.0,Male,Ahmedabad,Gujarat,Books,Novel,1,352.76,10.0,Debit Card,3,4.0
+O0469,C1206,2025-09-23,51.0,Male,Mumbai,Maharashtra,Electronics,Smartwatch,1,12250.6,5.0,UPI,3,4.0
+O0709,C1059,2025-07-08,21.0,Female,Indore,Madhya Pradesh,Beauty,Moisturizer,1,1024.51,10.0,UPI,3,4.0
+O0588,C1024,2025-01-12,50.0,Male,Hyderabad,Telangana,Clothing,Jacket,1,4297.51,0.0,Credit Card,1,4.0
+O0257,C1161,2025-11-17,18.0,Male,Jaipur,Rajasthan,Home,Bedsheet,3,2209.29,15.0,Net Banking,3,5.0
+O0261,C1061,2025-12-14,35.0,Male,Mumbai,Maharashtra,Clothing,Shoes,1,2445.13,10.0,UPI,3,5.0
+O0544,C1077,2025-08-07,43.0,Male,Ahmedabad,Gujarat,Beauty,Perfume,1,3462.21,5.0,Credit Card,4,5.0
+O0406,C1222,2025-07-19,36.0,Male,Mumbai,Maharashtra,Books,Programming Book,3,876.27,15.0,Net Banking,4,4.0
+O0429,C1097,2025-07-06,59.0,Female,Hyderabad,Telangana,Electronics,Headphones,4,5037.89,10.0,Credit Card,5,3.0
+O0676,C1054,2025-11-07,57.0,Female,Mumbai,Maharashtra,Clothing,T-Shirt,2,1167.12,5.0,UPI,2,5.0
+O0502,C1264,2025-02-27,57.0,Male,Delhi,Delhi,Clothing,Jacket,4,2126.01,15.0,Debit Card,1,5.0
+O0433,C1042,2025-04-18,31.0,Female,Vadodara,Gujarat,Electronics,Laptop,4,53050.55,0.0,UPI,3,5.0
+O0731,C1131,2025-10-20,30.0,Male,Vadodara,Gujarat,Beauty,Moisturizer,5,1355.92,5.0,Debit Card,4,5.0
+O0138,C1202,2025-08-17,34.0,Female,Bengaluru,Karnataka,Home,Cookware Set,1,2856.86,15.0,Credit Card,4,3.0
+O0358,C1109,2025-03-24,54.0,Female,Indore,Madhya Pradesh,Books,Programming Book,1,874.73,15.0,UPI,3,2.0
+O0928,C1160,2025-01-01,50.0,Female,Indore,Madhya Pradesh,Home,Mixer,2,3470.0,5.0,Credit Card,4,4.0
+O0222,C1062,2025-08-23,43.0,Male,Hyderabad,Telangana,Beauty,Perfume,1,1376.99,10.0,Cash on Delivery,3,5.0
+O0753,C1268,2025-08-29,52.0,Male,Ahmedabad,Gujarat,Electronics,Headphones,2,7565.65,5.0,Cash on Delivery,3,4.0
+O0594,C1145,2025-03-30,49.0,Male,Vadodara,Gujarat,Clothing,T-Shirt,1,1250.02,5.0,Debit Card,4,5.0
+O0804,C1039,2025-03-08,35.0,Male,Hyderabad,Telangana,Electronics,Smartwatch,1,10728.55,0.0,Credit Card,4,3.0
+O0364,C1077,2025-06-03,43.0,Male,Indore,Madhya Pradesh,Home,Cookware Set,1,1699.59,10.0,Credit Card,2,4.0
+O0523,C1146,2025-11-09,24.0,Female,Mumbai,Maharashtra,Electronics,Smartwatch,3,2708.39,5.0,UPI,4,4.0
+O0209,C1298,2025-01-13,51.0,Male,Jaipur,Rajasthan,Electronics,Smartphone,1,32514.04,10.0,UPI,3,4.0
+O0778,C1011,2025-07-31,28.0,Male,Indore,Madhya Pradesh,Electronics,Laptop,1,64888.1,5.0,UPI,4,4.0
+O0335,C1106,2025-05-30,50.0,Female,Mumbai,Maharashtra,Electronics,Laptop,1,57973.83,5.0,Cash on Delivery,5,3.0
+O0211,C1173,2025-03-06,59.0,Male,Indore,Madhya Pradesh,Electronics,Laptop,1,82232.29,10.0,Net Banking,1,5.0
+O0351,C1012,2025-08-13,41.0,Female,Ahmedabad,Gujarat,Electronics,Headphones,3,7618.71,0.0,UPI,3,5.0
+O0079,C1288,2025-04-03,50.0,Female,Delhi,Delhi,Clothing,Jeans,1,2438.4,20.0,Net Banking,4,5.0
+O0030,C1294,2025-01-25,55.0,Male,Vadodara,Gujarat,Clothing,Jeans,2,2836.91,0.0,Cash on Delivery,2,3.0
+O0281,C1279,2025-06-05,21.0,Female,Ahmedabad,Gujarat,Home,Cookware Set,2,2451.81,5.0,Net Banking,4,3.0
+O0508,C1216,2025-01-16,20.0,Female,Hyderabad,Telangana,Electronics,Smartwatch,1,8544.68,15.0,Net Banking,2,5.0
+O0639,C1052,2025-06-01,34.0,Female,Ahmedabad,Gujarat,Electronics,Smartwatch,3,6371.67,10.0,Credit Card,1,5.0
+O0802,C1028,2025-12-03,44.0,Male,Mumbai,Maharashtra,Electronics,Headphones,1,4912.14,0.0,Credit Card,4,4.0
+O0290,C1155,2025-07-01,47.0,Female,Indore,Madhya Pradesh,Home,Bedsheet,1,2395.05,10.0,Debit Card,4,4.0
+O0166,C1173,2025-11-13,59.0,Male,Bengaluru,Karnataka,Books,Programming Book,3,896.18,5.0,Cash on Delivery,2,5.0
+O0856,C1206,2025-12-21,51.0,Male,Vadodara,Gujarat,Books,Novel,4,550.41,5.0,UPI,4,3.0
+O0498,C1193,2025-05-06,18.0,Female,Jaipur,Rajasthan,Clothing,Jacket,3,4257.2,10.0,UPI,2,4.0
+O0463,C1009,2025-01-28,40.0,Female,Surat,Gujarat,Books,Self-Help Book,2,602.67,5.0,Credit Card,3,4.0
+O0066,C1022,2025-01-07,19.0,Male,Vadodara,Gujarat,Home,Lamp,5,2243.07,20.0,Debit Card,2,5.0
+O0142,C1240,2025-03-02,52.0,Female,Delhi,Delhi,Electronics,Headphones,2,7939.66,10.0,Net Banking,2,4.0
+O0276,C1096,2025-07-26,22.0,Male,Vadodara,Gujarat,Electronics,Headphones,2,5699.45,0.0,Cash on Delivery,5,4.0
+O0831,C1280,2025-07-20,50.0,Female,Pune,Maharashtra,Beauty,Perfume,1,3600.39,10.0,UPI,3,4.0
+O0582,C1279,2025-06-27,21.0,Female,Delhi,Delhi,Electronics,Headphones,1,3028.26,10.0,UPI,4,4.0
+O0465,C1174,2025-08-20,41.0,Male,Hyderabad,Telangana,Books,Programming Book,2,1277.15,5.0,Debit Card,3,4.0
+O0668,C1201,2025-01-31,28.0,Female,Bengaluru,Karnataka,Electronics,Laptop,1,61106.85,15.0,Debit Card,4,5.0
+O0320,C1116,2025-01-25,52.0,Female,Ahmedabad,Gujarat,Electronics,Smartphone,2,19092.32,20.0,UPI,4,4.0
+O0843,C1152,2025-04-28,45.0,Female,Jaipur,Rajasthan,Beauty,Moisturizer,4,354.14,10.0,Debit Card,5,4.0
+O0307,C1254,2025-09-30,33.0,Male,Jaipur,Rajasthan,Home,Cookware Set,3,3561.27,10.0,Debit Card,1,4.0
+O0308,C1058,2025-06-05,59.0,Female,Jaipur,Rajasthan,Electronics,Headphones,1,3181.93,5.0,Cash on Delivery,3,4.0
+O0824,C1230,2025-08-19,35.0,Female,Mumbai,Maharashtra,Electronics,Laptop,1,48986.56,15.0,Net Banking,3,5.0
+O0334,C1093,2025-04-22,52.0,Female,Hyderabad,Telangana,Books,Cookbook,2,890.95,10.0,UPI,five,5.0
+O0050,C1215,2025-04-18,46.0,Female,Mumbai,Maharashtra,Beauty,Shampoo,1,883.41,15.0,UPI,4,5.0
+O0738,C1243,2025-01-12,43.0,Male,Bengaluru,Karnataka,Electronics,Laptop,1,76775.37,5.0,Cash on Delivery,3,5.0
+O0003,C1236,2025-11-02,40.0,Male,Bengaluru,Karnataka,Home,Bedsheet,2,1761.92,5.0,Cash on Delivery,4,4.0
+O0546,C1007,2025-10-15,56.0,Female,Indore,Madhya Pradesh,Clothing,Jeans,1,1164.02,10.0,UPI,2,5.0
+O0353,C1012,2025-06-08,41.0,Female,Hyderabad,Telangana,Clothing,Shoes,1,1561.57,5.0,UPI,4,5.0
+O0908,C1285,2025-05-24,24.0,Male,Pune,Maharashtra,Clothing,Shoes,1,2672.85,5.0,Credit Card,4,4.0
+O0590,C1015,2025-05-04,41.0,Male,Jaipur,Rajasthan,Home,Bedsheet,1,1829.17,20.0,Debit Card,6,4.0
+O0347,C1290,2025-04-05,39.0,Female,Hyderabad,Telangana,Electronics,Laptop,1,65184.76,0.0,Credit Card,5,5.0
+O0998,C1047,2025-02-05,45.0,Male,Surat,Gujarat,Clothing,Jacket,1,2248.21,5.0,Credit Card,6,4.0
+O0484,C1196,2025-11-10,43.0,Female,Surat,Gujarat,Clothing,T-Shirt,1,1289.52,10.0,UPI,4,4.0
+O0579,C1123,2025-10-27,31.0,Female,Mumbai,Maharashtra,Beauty,Perfume,2,3872.7,10.0,UPI,3,5.0
+O0034,C1132,2025-03-28,49.0,Female,Jaipur,Rajasthan,Electronics,Laptop,1,82844.62,5.0,Debit Card,3,2.0
+O0032,C1189,2025-06-07,40.0,Female,Ahmedabad,Gujarat,Electronics,Headphones,1,3307.57,5.0,Cash on Delivery,3,4.0
+O0232,C1154,2025-05-27,37.0,Male,Mumbai,Maharashtra,Books,Novel,3,611.58,10.0,UPI,2,4.0
+O0751,C1183,2025-05-09,20.0,Male,Surat,Gujarat,Beauty,Perfume,2,3957.43,10.0,UPI,2,5.0
+O0193,C1154,2025-07-22,37.0,Male,Mumbai,Maharashtra,Books,Cookbook,2,904.48,5.0,UPI,2,4.0
+O0514,C1238,2025-05-03,47.0,Male,Surat,Gujarat,Clothing,T-Shirt,1,794.16,15.0,UPI,2,5.0
+O0004,C1098,2025-09-04,56.0,Male,Surat,Gujarat,Home,Lamp,1,2308.32,10.0,Cash on Delivery,3,5.0
+O0205,C1075,2025-05-19,35.0,Female,Bengaluru,Karnataka,Clothing,T-Shirt,2,500.18,0.0,UPI,4,4.0
+O0434,C1265,2025-12-04,37.0,Male,Pune,Maharashtra,Clothing,Jacket,1,4592.4,10.0,Debit Card,2,5.0
+O0577,C1299,2025-02-21,38.0,Female,Jaipur,Rajasthan,Electronics,Headphones,2,6183.57,20.0,UPI,5,5.0
+O0982,C1012,2025-05-17,41.0,Female,Jaipur,Rajasthan,Books,Novel,3,651.45,10.0,UPI,3,4.0
+O0110,C1288,15/03/2025,50.0,Female,Delhi,Delhi,Electronics,Smartwatch,1,4491.3,0.0,UPI,3,5.0
+O0600,C1253,2025-02-08,36.0,Female,Hyderabad,Telangana,Home,Lamp,5,2034.34,5.0,UPI,3,5.0
+O0078,C1087,2025-07-02,18.0,Female,Surat,Gujarat,Home,Mixer,5,2501.48,5.0,UPI,5,4.0
+O0085,C1287,2025-01-01,34.0,Male,Delhi,Delhi,Electronics,Headphones,2,2354.35,5.0,Cash on Delivery,3,5.0
+O0524,C1115,2025-01-26,18.0,Female,Surat,Gujarat,Books,Novel,3,403.39,0.0,UPI,1,4.0
+O0083,C1087,2025-03-25,18.0,Female,Vadodara,Gujarat,Home,Bedsheet,3,1025.76,10.0,UPI,5,4.0
+O0255,C1132,2025-09-02,49.0,Female,Hyderabad,Telangana,Clothing,T-Shirt,1,1795.14,10.0,Debit Card,4,5.0
+O0965,C1206,2025-04-12,51.0,Male,Delhi,Delhi,Electronics,Headphones,2,7205.21,5.0,Cash on Delivery,5,3.0
+O0409,C1099,2025-02-19,58.0,Female,Ahmedabad,Gujarat,Beauty,Shampoo,1,478.18,10.0,UPI,3,4.0
+O0653,C1123,2025-10-07,31.0,Female,Delhi,Delhi,Home,Lamp,1,2012.47,15.0,Cash on Delivery,3,4.0
+O0877,C1029,2025-09-26,59.0,Male,Surat,Gujarat,Books,Novel,1,585.07,15.0,UPI,2,4.0
+O0918,C1272,2025-03-20,35.0,Male,Mumbai,Maharashtra,Books,Novel,2,641.08,5.0,Credit Card,1,5.0
+O0437,C1200,2025-10-28,21.0,Female,Delhi,Delhi,Beauty,Moisturizer,1,1061.69,10.0,Credit Card,2,5.0
+O0006,C1235,2025-12-26,42.0,Male,Surat,Gujarat,Home,Lamp,1,1574.53,10.0,Credit Card,4,5.0
+O0405,C1174,2025-12-25,41.0,Male,Surat,Gujarat,Home,Bedsheet,1,1250.88,0.0,UPI,3,5.0
+O0468,C1246,2025-02-14,29.0,Male,Jaipur,Rajasthan,Home,Lamp,2,2443.69,5.0,Credit Card,5,4.0
+O0098,C1027,2025-03-31,42.0,Female,Surat,Gujarat,Books,Cookbook,1,706.65,10.0,Credit Card,7,3.0
+O0559,C1162,2025-11-05,44.0,Male,Surat,Gujarat,Home,Bedsheet,4,2081.1,10.0,UPI,5,4.0
+O0360,C1219,2025-02-23,36.0,Male,Ahmedabad,Gujarat,Electronics,Headphones,1,3341.45,0.0,Net Banking,3,4.0
+O0921,C1154,2025-09-19,37.0,Male,Delhi,Delhi,Electronics,Headphones,2,7111.6,5.0,UPI,3,5.0
+O0267,C1126,2025-09-04,26.0,Female,Surat,Gujarat,Electronics,Smartphone,1,23453.79,0.0,UPI,3,4.0
+O0737,C1138,2025-12-30,40.0,Male,Hyderabad,Telangana,Beauty,Perfume,1,1599.53,10.0,Credit Card,4,5.0
+O0383,C1012,2025-11-15,41.0,Female,Hyderabad,Telangana,Books,Cookbook,2,829.73,0.0,UPI,4,5.0
+O0693,C1032,2025-12-14,32.0,Male,Delhi,Delhi,Clothing,Shoes,4,1923.27,10.0,Debit Card,3,4.0
+O0412,C1253,2025-12-06,36.0,Female,Indore,Madhya Pradesh,Clothing,Jeans,1,1793.51,10.0,Cash on Delivery,3,4.0
+O0885,C1295,2025-01-07,25.0,Male,Jaipur,Rajasthan,Electronics,Headphones,2,4360.13,0.0,Net Banking,7,4.0
+O0119,C1231,2025-05-13,57.0,Female,Mumbai,Maharashtra,Beauty,Face Wash,2,₹2500,5.0,Credit Card,3,4.0
+O0431,C1074,2025-05-17,33.0,Male,Pune,Maharashtra,Beauty,Moisturizer,1,764.17,0.0,UPI,2,4.0
+O0251,C1084,2025-04-10,24.0,Male,Pune,Maharashtra,Electronics,Smartphone,5,15528.87,5.0,Debit Card,4,3.0
+O0343,C1124,2025-10-12,56.0,Female,Surat,Gujarat,Beauty,Face Wash,2,564.85,10.0,UPI,2,5.0
+O0010,C1078,2025-08-27,42.0,Male,Hyderabad,Telangana,Clothing,T-Shirt,1,547.69,10.0,Cash on Delivery,3,3.0
+O0197,C1277,2025-11-23,53.0,Female,Bengaluru,Karnataka,Clothing,Jeans,1,1557.52,20.0,UPI,7,4.0
+O0755,C1229,2025-10-31,56.0,Female,Ahmedabad,Gujarat,Beauty,Face Wash,1,288.05,0.0,UPI,5,4.0
+O0082,C1243,2025-08-28,43.0,Male,Surat,Gujarat,Home,Bedsheet,2,1821.34,10.0,UPI,4,4.0
+O0911,C1199,2025-02-28,49.0,Female,Mumbai,Maharashtra,Beauty,Perfume,3,1892.82,10.0,Net Banking,2,5.0
+O0479,C1288,2025-01-10,50.0,Female,Indore,Madhya Pradesh,Clothing,Jacket,2,2874.7,15.0,UPI,4,5.0
+O0623,C1104,2025-07-13,29.0,Male,Hyderabad,Telangana,Home,Lamp,3,952.3,15.0,UPI,2,4.0
+O0240,C1001,2025-03-11,56.0,Female,Jaipur,Rajasthan,Electronics,Smartphone,1,44766.51,0.0,UPI,2,5.0
+O0293,C1292,2025-05-24,47.0,Female,Indore,Madhya Pradesh,Electronics,Headphones,2,1845.38,10.0,UPI,2,5.0
+O0212,C1021,2025-01-13,55.0,female,Bengaluru,Karnataka,Clothing,Jacket,3,4434.59,10.0,UPI,4,5.0
+O0721,C1234,2025-10-15,45.0,Male,Indore,Madhya Pradesh,Clothing,T-Shirt,1,677.28,0.0,UPI,1,4.0
+O0362,C1131,2025-06-22,30.0,Male,Mumbai,Maharashtra,Beauty,Face Wash,3,705.4,15.0,Credit Card,4,5.0
+O0452,C1084,2025-12-09,24.0,Male,Delhi,Delhi,Clothing,Jeans,1,2307.57,10.0,Cash on Delivery,2,4.0
+O0228,C1173,2025-08-29,59.0,Male,Delhi,Delhi,Electronics,Laptop,4,60913.47,20.0,UPI,5,3.0
+O0860,C1146,2025-05-04,24.0,Female,Pune,Maharashtra,Clothing,T-Shirt,1,759.2,0.0,Debit Card,2,5.0
+O0363,C1171,2025-10-26,54.0,Female,Bengaluru,Karnataka,Electronics,Smartwatch,1,6056.77,10.0,Cash on Delivery,2,5.0
+O0800,C1186,2025-04-19,19.0,Female,Vadodara,Gujarat,Electronics,Smartphone,1,28001.22,10.0,UPI,2,5.0
+O0657,C1138,2025-10-10,40.0,Male,Bengaluru,Karnataka,Electronics,Laptop,2,56733.95,10.0,Debit Card,3,5.0
+O0550,C1282,2025-09-24,38.0,Female,Indore,Madhya Pradesh,Clothing,Jacket,2,2648.15,0.0,UPI,1,5.0
+O0644,C1068,2025-04-13,32.0,Male,Hyderabad,Telangana,Books,Novel,1,602.8,15.0,Cash on Delivery,4,4.0
+O0581,C1230,2025-05-13,35.0,Female,Pune,Maharashtra,Home,Mixer,3,4832.21,5.0,Credit Card,4,5.0
+O0926,C1009,2025-11-14,40.0,Female,Pune,Maharashtra,Clothing,Jacket,1,4775.81,20.0,Cash on Delivery,4,4.0
+O0371,C1230,2025-01-08,35.0,Female,Ahmedabad,Gujarat,Books,Novel,2,281.27,0.0,Debit Card,4,4.0
+O0008,C1001,2025-02-16,56.0,Female,Hyderabad,Telangana,Home,Cookware Set,1,4629.76,5.0,UPI,2,4.0
+O0156,C1040,2025-09-03,21.0,Male,Ahmedabad,Gujarat,Clothing,Shoes,1,1650.23,10.0,Cash on Delivery,3,4.0
+O0543,C1029,2025-06-30,59.0,Male,Ahmedabad,Gujarat,Beauty,Perfume,1,1052.58,10.0,Credit Card,3,5.0
+O0443,C1023,2025-02-04,38.0,Male,Surat,Gujarat,Beauty,Face Wash,1,377.72,0.0,UPI,4,4.0
+O0820,C1254,2025-02-15,33.0,Male,Hyderabad,Telangana,Clothing,T-Shirt,1,1696.15,0.0,Debit Card,3,5.0
+O0399,C1009,2025-03-01,40.0,Female,Surat,Gujarat,Electronics,Headphones,1,7341.92,5.0,Credit Card,3,5.0
+O0782,C1192,2025-01-09,50.0,Female,Hyderabad,Telangana,Books,Novel,3,461.29,0.0,Credit Card,3,4.0
+O0568,C1242,2025-10-29,33.0,Male,Delhi,Delhi,Books,Novel,3,634.05,5.0,UPI,4,4.0
+O0591,C1019,2025-06-06,41.0,Male,Pune,Maharashtra,Electronics,Smartwatch,4,9432.76,15.0,UPI,1,5.0
+O0715,C1254,2025-06-04,33.0,Male,Indore,Madhya Pradesh,Electronics,Headphones,2,4286.31,5.0,Credit Card,7,3.0
+O0938,C1136,2025-08-29,47.0,Female,Indore,Madhya Pradesh,Books,Cookbook,1,308.44,10.0,UPI,4,4.0
+O0569,C1278,2025-08-24,50.0,Male,Jaipur,Rajasthan,Beauty,Moisturizer,3,882.32,5.0,Credit Card,3,5.0
+O0866,C1278,2025-06-30,50.0,Male,Mumbai,Maharashtra,Electronics,Headphones,1,3001.09,10.0,Credit Card,4,4.0
+O0532,C1130,2025-05-23,59.0,Female,Indore,Madhya Pradesh,Electronics,Smartwatch,2,7367.37,10.0,UPI,2,5.0
+O0585,C1045,2025-12-23,19.0,Female,Ahmedabad,Gujarat,Home,Lamp,2,2032.7,15.0,Debit Card,7,3.0
+O0711,C1018,2025/08/22,19.0,Female,Indore,Madhya Pradesh,Books,Cookbook,4,704.02,15.0,Net Banking,3,5.0
+O0451,C1279,2025-08-14,21.0,Female,Indore,Madhya Pradesh,Electronics,Smartwatch,1,12927.05,0.0,Credit Card,5,3.0
+O0779,C1239,2025-07-26,59.0,Female,Pune,Maharashtra,Electronics,Headphones,2,1560.71,5.0,Credit Card,2,4.0
+O0229,C1117,2025-04-24,54.0,Male,Ahmedabad,Gujarat,Electronics,Headphones,1,4221.68,10.0,Net Banking,3,3.0
+O0537,C1161,2025-06-29,18.0,Male,Pune,Maharashtra,Clothing,Jeans,2,2965.72,10.0,UPI,4,3.0
+O0732,C1222,2025-12-28,36.0,Male,Surat,Gujarat,Home,Bedsheet,2,2330.53,0.0,Net Banking,5,4.0
+O0213,C1165,2025-01-29,20.0,Female,Delhi,Delhi,Books,Self-Help Book,4,711.1,0.0,Debit Card,3,4.0
+O0080,C1207,2025-12-30,23.0,Female,Ahmedabad,Gujarat,Electronics,Smartwatch,2,13353.41,10.0,Credit Card,3,4.0
+O0149,C1161,2025-03-27,18.0,Male,Hyderabad,Telangana,Electronics,Smartwatch,2,3610.5,10.0,Net Banking,2,5.0
+O0303,C1249,2025-03-18,49.0,Male,Jaipur,Rajasthan,Books,Self-Help Book,1,704.04,10.0,Cash on Delivery,6,3.0
+O0663,C1198,2025-03-01,23.0,Female,Delhi,Delhi,Electronics,Smartwatch,1,3495.67,10.0,Credit Card,6,4.0
+O0329,C1044,2025-05-25,43.0,Male,Surat,Gujarat,Electronics,Headphones,1,1722.26,10.0,Credit Card,5,4.0
+O0927,C1084,2025-01-15,24.0,Male,Ahmedabad,Gujarat,Clothing,Jacket,3,2208.39,10.0,UPI,2,5.0
+O0345,C1034,2025-08-27,54.0,Male,Delhi,Delhi,Electronics,Smartphone,3,24093.98,15.0,UPI,2,4.0
+O0545,C1120,2025-03-21,18.0,Male,Bengaluru,Karnataka,Clothing,Shoes,1,1980.69,20.0,UPI,2,4.0
+O0507,C1150,2025-02-15,59.0,Female,Indore,Madhya Pradesh,Beauty,Shampoo,2,464.6,5.0,Net Banking,1,4.0
+O0134,C1295,2025-04-14,25.0,Male,Pune,Maharashtra,Home,Mixer,1,2312.23,0.0,UPI,4,3.0
+O0552,C1130,2025-07-13,59.0,Female,Mumbai,Maharashtra,Home,Cookware Set,1,3947.85,15.0,Credit Card,3,5.0
+O0312,C1232,2025-02-25,18.0,Female,Jaipur,Rajasthan,Electronics,Headphones,3,2053.31,5.0,Debit Card,4,4.0
+O0845,C1188,2025-06-01,45.0,Male,Jaipur,Rajasthan,Books,Cookbook,3,663.77,10.0,UPI,2,5.0
+O0953,C1198,2025-09-30,23.0,Female,Pune,Maharashtra,Clothing,Jacket,2,3534.84,10.0,Credit Card,3,5.0
+O0001,C1133,2025-10-15,56.0,Female,Jaipur,Rajasthan,Books,Novel,4,584.49,15.0,UPI,3,4.0
+O0317,C1184,2025-12-26,54.0,Male,Jaipur,Rajasthan,Home,Cookware Set,1,4888.27,10.0,UPI,3,5.0
+O0746,C1167,2025-10-08,23.0,Female,Delhi,Delhi,Clothing,Jacket,1,3495.47,10.0,UPI,4,4.0
+O0549,C1285,2025-02-06,24.0,Male,Indore,Madhya Pradesh,Electronics,Laptop,1,54374.8,0.0,Credit Card,4,4.0
+O0617,C1271,2025-05-03,35.0,Male,Jaipur,Rajasthan,Clothing,Jacket,1,2801.1,10.0,UPI,2,5.0
+O0534,C1195,2025-05-29,19.0,Male,Bengaluru,Karnataka,Home,Cookware Set,1,1610.3,10.0,Cash on Delivery,4,5.0
+O0480,C1047,2025-06-16,45.0,Male,Jaipur,Rajasthan,Electronics,Smartwatch,1,8888.67,20.0,Credit Card,5,3.0
+O0874,C1200,2025-09-05,21.0,Female,Hyderabad,Telangana,Beauty,Face Wash,1,470.44,10.0,Debit Card,2,5.0
+O0173,C1210,2025-10-18,33.0,Male,Delhi,Delhi,Clothing,Shoes,1,1705.42,5.0,Net Banking,3,4.0
+O0126,C1211,2025-02-07,50.0,Female,Surat,Gujarat,Home,Cookware Set,1,2109.38,10.0,Debit Card,2,4.0
+O0425,C1129,2025-04-19,43.0,Female,Hyderabad,Telangana,Electronics,Laptop,1,48497.86,5.0,UPI,2,5.0
+O0423,C1054,2025-06-11,57.0,Female,Ahmedabad,Gujarat,Electronics,Smartwatch,2,12955.26,0.0,Cash on Delivery,7,3.0
+O0829,C1294,2025-01-22,55.0,Male,Mumbai,Maharashtra,Home,Bedsheet,4,858.41,5.0,UPI,3,5.0
+O0907,C1137,2025-08-25,54.0,Male,Indore,Madhya Pradesh,Home,Cookware Set,1,2013.81,0.0,Debit Card,1,5.0
+O0091,C1119,2025-05-22,20.0,Female,Vadodara,Gujarat,Books,Self-Help Book,3,408.7,15.0,Debit Card,2,5.0
+O0943,C1006,2025-01-24,38.0,Female,Surat,Gujarat,Clothing,Jeans,1,1548.27,10.0,UPI,7,4.0
+O0182,C1146,2025-07-14,24.0,Female,Jaipur,Rajasthan,Clothing,T-Shirt,3,1205.29,10.0,UPI,3,4.0
+O0275,C1123,2025-04-17,31.0,Female,Surat,Gujarat,Electronics,Headphones,2,1676.02,10.0,Debit Card,3,4.0
+O0899,C1173,2025-06-27,59.0,Male,Pune,Maharashtra,Books,Cookbook,1,781.86,15.0,UPI,5,4.0
+O0070,C1274,2025-02-19,52.0,Male,Indore,Madhya Pradesh,Books,Cookbook,1,411.47,0.0,UPI,3,4.0
+O0292,C1296,2025-08-18,44.0,Male,Delhi,Delhi,Beauty,Perfume,2,2514.99,5.0,UPI,4,5.0
+O0132,C1203,2025-10-10,55.0,Female,Bengaluru,Karnataka,Clothing,Jeans,1,2874.78,0.0,UPI,4,4.0
+O0301,C1106,2025-02-01,50.0,Female,Bengaluru,Karnataka,Clothing,Jeans,1,1381.45,10.0,Net Banking,4,4.0
+O0583,C1162,2025-05-15,44.0,Male,Ahmedabad,Gujarat,Books,Cookbook,2,344.52,15.0,Net Banking,3,5.0
+O0327,C1262,2025-08-05,53.0,Male,Indore,Madhya Pradesh,Home,Bedsheet,3,2155.13,5.0,Credit Card,3,5.0
+O0145,C1100,2025-06-12,45.0,Male,Bengaluru,Karnataka,Beauty,Perfume,2,3204.4,20.0,UPI,1,5.0
+O0426,C1055,2025-11-30,21.0,Male,Pune,Maharashtra,Clothing,T-Shirt,3,683.56,0.0,Net Banking,3,4.0
+O0584,C1118,2025-12-21,31.0,Male,Delhi,Delhi,Home,Lamp,5,1870.4,10.0,Cash on Delivery,6,3.0
+O0136,C1234,2025-08-11,45.0,Male,Ahmedabad,Gujarat,Beauty,Perfume,2,835.3,15.0,Debit Card,5,5.0
+O0666,C1145,2025-06-27,49.0,Male,Ahmedabad,Gujarat,Clothing,Shoes,1,4514.86,5.0,Debit Card,3,4.0
+O0165,C1084,2025-10-11,24.0,Male,Indore,Madhya Pradesh,Electronics,Smartwatch,5,2839.69,0.0,Debit Card,7,3.0
+O0029,C1001,2025-03-16,56.0,Female,Surat,Gujarat,Books,Programming Book,1,1268.66,0.0,UPI,5,4.0
+O0761,C1126,2025-01-29,26.0,Female,Surat,Gujarat,Electronics,Smartphone,2,15488.22,5.0,Debit Card,4,4.0
+O0194,C1192,2025-09-17,50.0,Female,Ahmedabad,Gujarat,Clothing,Jeans,5,2731.15,5.0,Cash on Delivery,5,5.0
+O0993,C1027,2025-03-20,42.0,Female,Vadodara,Gujarat,Home,Mixer,4,2177.15,0.0,UPI,1,5.0
+O0705,C1147,2025-12-05,39.0,Male,Ahmedabad,Gujarat,Books,Programming Book,1,1381.56,10.0,UPI,2,4.0
+O0170,C1035,2025-01-15,24.0,Female,Ahmedabad,Gujarat,Beauty,Moisturizer,2,330.17,0.0,Cash on Delivery,3,5.0
+O0491,C1116,2025-02-08,52.0,Female,Jaipur,Rajasthan,Clothing,Shoes,4,2834.0,0.0,Debit Card,1,5.0
+O0141,C1183,2025-05-28,20.0,Male,Mumbai,Maharashtra,Electronics,Headphones,3,1625.29,15.0,Debit Card,3,5.0
+O0174,C1237,2025-10-22,48.0,Female,Delhi,Delhi,Clothing,T-Shirt,1,1610.38,15.0,Cash on Delivery,3,4.0
+O0007,C1184,2025-01-22,54.0,Male,Surat,Gujarat,Clothing,Shoes,5,3818.56,10.0,UPI,5,3.0
+O0645,C1215,2025-01-17,46.0,Female,Vadodara,Gujarat,Electronics,Smartwatch,1,10601.28,10.0,Debit Card,3,5.0
+O0635,C1046,2025-05-11,37.0,Male,Jaipur,Rajasthan,Clothing,T-Shirt,1,1640.63,15.0,Credit Card,5,3.0
+O0074,C1088,2025-08-30,25.0,Male,Bengaluru,Karnataka,Electronics,Smartwatch,1,9636.31,10.0,UPI,3,5.0
+O0974,C1108,2025-01-10,41.0,Male,Surat,Gujarat,Books,Programming Book,2,731.92,15.0,Debit Card,5,4.0
+O0979,C1038,2025-06-22,56.0,Female,Pune,Maharashtra,Clothing,Jeans,3,2561.89,5.0,Cash on Delivery,2,5.0
+O0239,C1153,2025-07-17,45.0,Male,Delhi,Delhi,Electronics,Laptop,2,76229.27,0.0,Net Banking,3,4.0
+O0146,C1220,2025-04-17,43.0,Male,Delhi,Delhi,Beauty,Perfume,3,2172.44,5.0,UPI,5,3.0
+O0801,C1194,2025-02-15,36.0,Female,Surat,Gujarat,Clothing,Jeans,2,1071.22,10.0,Credit Card,4,4.0
+O0235,C1169,2025-12-08,44.0,Male,Delhi,Delhi,Electronics,Laptop,2,59487.05,5.0,UPI,1,5.0
+O0221,C1084,2025-10-21,24.0,Male,Indore,Madhya Pradesh,Home,Lamp,4,768.55,10.0,UPI,3,4.0
+O0478,C1014,2025-05-09,57.0,Female,Bengaluru,Karnataka,Clothing,Jeans,1,2336.01,15.0,Cash on Delivery,1,5.0
+O0836,C1034,2025-05-25,54.0,Male,Ahmedabad,Gujarat,Home,Cookware Set,1,2908.08,0.0,Debit Card,6,3.0
+O0133,C1050,2025-01-30,52.0,Female,Jaipur,Rajasthan,Electronics,Headphones,2,6916.78,10.0,Credit Card,3,5.0
+O0994,C1205,2025-02-12,22.0,Male,Vadodara,Gujarat,Books,Cookbook,1,540.39,5.0,UPI,2,5.0
+O0944,C1271,2025-10-15,35.0,Male,Delhi,Delhi,Beauty,Perfume,1,3091.76,15.0,UPI,2,5.0
+O0186,C1260,2025-09-02,28.0,Male,Delhi,Delhi,Electronics,Smartphone,1,47397.31,5.0,UPI,2,5.0
+O0042,C1017,2025-08-07,39.0,Female,Hyderabad,Telangana,Clothing,Jeans,1,2440.41,0.0,UPI,2,5.0
+O0614,C1245,2025-04-14,18.0,Female,Mumbai,Maharashtra,Books,Self-Help Book,3,323.35,10.0,UPI,3,5.0
+O0109,C1279,2025-08-19,21.0,Female,Delhi,Delhi,Clothing,Shoes,4,5966.18,10.0,Cash on Delivery,3,4.0
+O0592,C1194,2025-05-07,36.0,Female,Delhi,Delhi,Home,Bedsheet,5,2148.94,5.0,Credit Card,2,4.0
+O0057,C1259,2025-12-04,41.0,Male,Pune,Maharashtra,Beauty,Face Wash,1,659.36,10.0,Credit Card,3,5.0
+O0530,C1226,2025-11-19,58.0,Male,Surat,Gujarat,Home,Bedsheet,1,1631.09,20.0,Debit Card,3,4.0
+O0870,C1171,2025-02-24,54.0,Female,Ahmedabad,Gujarat,Home,Cookware Set,1,2636.31,5.0,Credit Card,2,4.0
+O0934,C1280,2025-09-13,50.0,Female,Delhi,Delhi,Home,Cookware Set,3,4684.38,10.0,UPI,3,4.0
+O0864,C1044,2025-03-10,43.0,Male,Mumbai,Maharashtra,Clothing,Jacket,5,4344.69,10.0,Credit Card,3,5.0
+O0025,C1157,2025-01-11,45.0,Male,Mumbai,Maharashtra,Home,Mixer,2,4111.21,10.0,Debit Card,3,4.0
+O0650,C1234,2025-12-17,45.0,Male,Bengaluru,Karnataka,Books,Novel,2,692.06,15.0,Debit Card,3,5.0
+O0449,C1051,2025-08-08,31.0,Male,Surat,Gujarat,Beauty,Moisturizer,5,402.48,10.0,Debit Card,2,3.0
+O0533,C1042,2025-01-29,31.0,Female,Hyderabad,Telangana,Books,Cookbook,2,372.55,5.0,UPI,7,3.0
+O0622,C1196,2025-06-02,43.0,Female,Jaipur,Rajasthan,Electronics,Smartwatch,3,13855.13,0.0,UPI,4,3.0
+O0698,C1227,2025-06-22,50.0,Female,Vadodara,Gujarat,Clothing,Jeans,1,1745.75,5.0,UPI,4,4.0
+O0930,C1240,2025-02-03,52.0,Female,Indore,Madhya Pradesh,Beauty,Face Wash,1,794.06,0.0,Credit Card,2,5.0
+O0339,C1173,2025-12-12,59.0,Male,Vadodara,Gujarat,Clothing,T-Shirt,1,1704.4,0.0,UPI,4,4.0
+O0052,C1161,2025-04-06,,Male,Vadodara,Gujarat,Books,Self-Help Book,3,265.86,0.0,Cash on Delivery,3,5.0
+O0667,C1293,2025-03-29,55.0,Female,Ahmedabad,Gujarat,Books,Programming Book,1,894.27,0.0,Net Banking,1,5.0
+O0621,C1053,2025-11-22,53.0,Male,Pune,Maharashtra,Clothing,Jeans,1,1313.06,10.0,UPI,7,2.0
+O0924,C1127,2025-10-31,32.0,Female,Indore,Madhya Pradesh,Books,Cookbook,1,799.89,5.0,UPI,4,4.0
+O0636,C1102,2025-02-26,26.0,Male,Vadodara,Gujarat,Electronics,Smartwatch,1,7556.14,10.0,Cash on Delivery,2,5.0
+O0265,C1087,2025-04-22,18.0,Female,Surat,Gujarat,Beauty,Shampoo,1,560.89,5.0,Credit Card,3,4.0
+O0539,C1001,2025-06-24,56.0,Female,Surat,Gujarat,Electronics,Laptop,1,69524.65,20.0,Credit Card,1,4.0
+O0714,C1021,2025-11-09,55.0,Male,Ahmedabad,Gujarat,Home,Lamp,2,1357.77,10.0,UPI,6,3.0
+O0686,C1197,2025-01-16,49.0,Female,Hyderabad,Telangana,Beauty,Perfume,1,2980.67,15.0,Credit Card,2,5.0
+O0950,C1276,2025-10-21,58.0,Male,Vadodara,Gujarat,Beauty,Moisturizer,3,923.14,5.0,Cash on Delivery,2,5.0
+O0520,C1231,2025-05-10,57.0,Female,Jaipur,Rajasthan,Books,Programming Book,1,865.92,0.0,UPI,4,5.0
+O0450,C1244,2025-11-27,19.0,Female,Hyderabad,Telangana,Beauty,Moisturizer,2,533.95,15.0,UPI,4,4.0
+O0019,C1094,2025-11-16,52.0,Male,Vadodara,Gujarat,Electronics,Laptop,2,49971.89,20.0,UPI,1,5.0
+O0719,C1062,2025-05-24,43.0,Male,Bengaluru,Karnataka,Beauty,Perfume,1,2618.62,0.0,Credit Card,5,5.0
+O0486,C1004,2025-10-04,60.0,Male,Ahmedabad,Gujarat,Electronics,Smartwatch,3,5889.28,10.0,UPI,3,4.0
+O0571,C1197,2025-01-12,49.0,Female,Surat,Gujarat,Electronics,Smartwatch,2,8868.86,5.0,UPI,2,5.0
+O0242,C1032,2025-06-11,32.0,Male,Vadodara,Gujarat,Clothing,Shoes,3,1572.28,0.0,Cash on Delivery,4,3.0
+O0368,C1215,2025-10-13,46.0,Female,Bengaluru,Karnataka,Beauty,Perfume,1,2009.09,5.0,Credit Card,2,5.0
+O0084,C1130,2025-06-13,59.0,Female,Bengaluru,Karnataka,Electronics,Laptop,1,83776.49,10.0,UPI,5,2.0
+O0062,C1092,2025-07-07,25.0,Female,Bengaluru,Karnataka,Books,Programming Book,1,934.21,20.0,UPI,4,4.0
+O0440,C1254,2025-03-19,33.0,Male,Mumbai,Maharashtra,Electronics,Smartphone,4,44993.75,10.0,Debit Card,5,3.0
+O0273,C1147,2025-12-26,39.0,Male,Surat,Gujarat,Books,Novel,1,206.68,10.0,UPI,3,4.0
+O0286,C1269,2025-06-15,42.0,Male,Pune,Maharashtra,Electronics,Smartwatch,2,12296.73,5.0,Debit Card,2,4.0
+O0361,C1218,2025-06-10,53.0,Female,Surat,Gujarat,Electronics,Smartwatch,1,12655.92,5.0,Credit Card,4,3.0
+O0355,C1216,2025-08-05,20.0,Female,Hyderabad,Telangana,Clothing,Shoes,1,3329.66,10.0,UPI,3,5.0
+O0990,C1012,2025-08-18,41.0,Female,Pune,Maharashtra,Home,Bedsheet,2,777.63,15.0,Credit Card,3,5.0
+O0279,C1064,2025-11-09,27.0,Male,Pune,Maharashtra,Beauty,Perfume,3,2533.27,5.0,Credit Card,4,5.0
+O0013,C1111,2025-10-16,57.0,Male,Surat,Gujarat,Beauty,Face Wash,1,496.2,15.0,Debit Card,2,3.0
+O0183,C1156,2025-06-05,28.0,Female,Jaipur,Rajasthan,Home,Mixer,2,2820.37,5.0,Debit Card,4,4.0
+O0369,C1273,2025-09-01,19.0,Female,Mumbai,Maharashtra,Electronics,Smartphone,1,29024.65,15.0,Credit Card,3,4.0
+O0495,C1092,2025-02-07,25.0,Female,Mumbai,Maharashtra,Books,Novel,1,513.03,0.0,UPI,2,5.0
+O0619,C1048,2025-12-16,24.0,Male,Ahmedabad,Gujarat,Clothing,T-Shirt,4,806.24,15.0,Debit Card,3,5.0
+O0224,C1089,2025-05-05,41.0,Male,Jaipur,Rajasthan,Books,Programming Book,1,778.14,0.0,Cash on Delivery,4,4.0
+O0576,C1270,2025-06-05,46.0,Male,Jaipur,Rajasthan,Electronics,Laptop,3,74652.35,20.0,Cash on Delivery,4,5.0
+O0912,C1140,2025-03-13,32.0,Male,Vadodara,Gujarat,Home,Lamp,3,1210.81,0.0,Debit Card,2,5.0
+O0867,C1235,2025-03-22,42.0,Male,Indore,Madhya Pradesh,Beauty,Face Wash,2,671.55,5.0,Cash on Delivery,4,3.0
+O0632,C1003,2025-11-28,32.0,Female,Pune,Maharashtra,Clothing,Shoes,1,2817.66,10.0,UPI,7,3.0
+O0586,C1145,2025-09-29,49.0,Male,Pune,Maharashtra,Electronics,Smartphone,2,40464.71,5.0,Credit Card,7,3.0
+O0612,C1042,2025-08-24,31.0,Female,Surat,Gujarat,Home,Cookware Set,1,2927.63,10.0,UPI,2,5.0
+O0177,C1109,2025-12-04,54.0,Female,Ahmedabad,Gujarat,Home,Cookware Set,4,4383.27,15.0,UPI,4,4.0
+O0669,C1219,2025-04-29,36.0,Male,Bengaluru,Karnataka,Electronics,Headphones,1,2481.02,0.0,Net Banking,5,5.0
+O0631,C1205,2025-09-01,22.0,Male,Mumbai,Maharashtra,Beauty,Face Wash,1,297.05,15.0,UPI,4,4.0
+O0589,C1035,2025-01-31,24.0,Female,Bengaluru,Karnataka,Beauty,Moisturizer,1,635.21,15.0,UPI,5,4.0
+O0522,C1026,2025-01-11,39.0,Female,Pune,Maharashtra,Home,Cookware Set,1,2706.69,15.0,Cash on Delivery,4,3.0
+O0394,C1237,2025-08-09,48.0,Female,Mumbai,Maharashtra,Electronics,Laptop,2,56021.46,0.0,Credit Card,3,5.0
+O0164,C1251,2025-01-30,58.0,Male,Vadodara,Gujarat,Electronics,Headphones,1,4239.98,15.0,Credit Card,3,5.0
+O0249,C1082,2025-03-15,18.0,Male,Ahmedabad,Gujarat,Home,Mixer,1,2908.88,5.0,UPI,3,4.0
+O0742,C1266,2025-02-17,52.0,Male,Bengaluru,Karnataka,Clothing,T-Shirt,1,907.92,5.0,UPI,4,4.0
+O0889,C1075,2025-09-11,35.0,Female,Bengaluru,Karnataka,Clothing,Jacket,2,3946.25,0.0,UPI,2,5.0
+O0775,C1170,2025-07-15,26.0,Male,Hyderabad,Telangana,Beauty,Face Wash,3,481.64,15.0,Credit Card,1,5.0
+O0376,C1247,2025-06-20,22.0,Female,Pune,Maharashtra,Electronics,Headphones,2,4191.02,5.0,UPI,4,5.0
+O0413,C1085,2025-03-22,26.0,Female,Surat,Gujarat,Clothing,Jeans,3,2790.11,10.0,UPI,2,5.0
+O0075,C1002,2025-04-16,46.0,Female,Ahmedabad,Gujarat,Home,Mixer,1,4438.44,5.0,Net Banking,2,5.0
+O0114,C1253,2025-01-25,36.0,Female,Ahmedabad,Gujarat,Books,Cookbook,3,724.38,0.0,Credit Card,3,5.0
+O0695,C1008,2025-04-05,36.0,Male,Ahmedabad,Gujarat,Electronics,Laptop,1,47967.05,15.0,Debit Card,6,3.0
+O0922,C1244,2025-01-18,19.0,Female,Bengaluru,Karnataka,Books,Programming Book,1,1336.87,0.0,UPI,5,2.0
+O0391,C1168,2025-10-28,25.0,Female,Vadodara,Gujarat,Electronics,Headphones,2,1494.54,5.0,Debit Card,3,5.0
+O0105,C1164,2025-05-29,58.0,Female,Ahmedabad,Gujarat,Electronics,Smartwatch,1,5333.21,0.0,Credit Card,1,5.0
+O0115,C1141,2025-11-30,60.0,Male,Pune,Maharashtra,Clothing,Shoes,1,1616.15,20.0,Credit Card,7,2.0
+O0418,C1250,2025-03-09,26.0,Male,Surat,Gujarat,Home,Cookware Set,1,4328.24,10.0,UPI,5,5.0
+O0712,C1087,2025-03-12,18.0,Female,Delhi,Delhi,Clothing,T-Shirt,1,823.63,5.0,UPI,3,5.0
+O0458,C1108,2025-05-31,41.0,Male,Jaipur,Rajasthan,Home,Mixer,1,2843.74,0.0,Net Banking,2,4.0
+O0410,C1292,2025-09-13,47.0,Female,Surat,Gujarat,Electronics,Headphones,3,5481.47,0.0,Net Banking,4,4.0
+O0093,C1176,2025-05-09,49.0,Male,Bengaluru,Karnataka,Beauty,Face Wash,2,320.92,15.0,Net Banking,3,5.0
+O0603,C1057,2025-09-14,23.0,Female,Vadodara,Gujarat,Books,Programming Book,1,1069.43,5.0,Credit Card,3,
+O0090,C1008,2025-11-07,36.0,Male,Jaipur,Rajasthan,Books,Novel,1,536.3,15.0,UPI,4,3.0
+O0337,C1279,2025-07-25,21.0,Female,Pune,Maharashtra,Electronics,Laptop,2,57288.66,5.0,UPI,2,5.0
+O0992,C1255,2025-08-07,20.0,Female,Bengaluru,Karnataka,Books,Programming Book,1,885.45,10.0,Credit Card,4,4.0
+O0925,C1061,2025-06-13,35.0,Male,Vadodara,Gujarat,Electronics,Smartwatch,2,12521.84,15.0,Net Banking,4,4.0
+O0937,C1083,2025-04-04,42.0,Male,Bengaluru,Karnataka,Beauty,Moisturizer,2,1363.29,15.0,UPI,3,4.0
+O0637,C1283,2025-11-25,37.0,Female,Jaipur,Rajasthan,Clothing,T-Shirt,1,1397.03,5.0,Cash on Delivery,2,4.0
+O0597,C1077,2025-12-07,43.0,Male,Indore,Madhya Pradesh,Beauty,Moisturizer,2,1134.14,10.0,Credit Card,6,3.0
+O0995,C1120,2025-02-07,18.0,Male,Delhi,Delhi,Home,Cookware Set,1,4383.04,20.0,Credit Card,4,3.0
+O0095,C1102,2025-04-27,26.0,Male,Indore,Madhya Pradesh,Electronics,Headphones,2,5743.85,10.0,Credit Card,5,2.0
+O0012,C1025,2025-02-03,29.0,Male,Bengaluru,Karnataka,Books,Cookbook,3,775.37,10.0,UPI,3,4.0
+O0397,C1244,2025-05-26,19.0,Female,Mumbai,Maharashtra,Clothing,Jacket,2,3878.01,15.0,Net Banking,1,5.0
+O0535,C1249,2025-03-17,49.0,Male,Hyderabad,Telangana,Electronics,Headphones,2,2147.26,0.0,UPI,4,3.0
+O0044,C1193,2025-10-22,18.0,Female,Surat,Gujarat,Electronics,Smartwatch,1,5566.86,5.0,Credit Card,4,4.0
+O0043,C1168,2025-11-06,25.0,Female,Bengaluru,Karnataka,Electronics,Laptop,2,64770.95,15.0,Credit Card,5,3.0
+O0330,C1050,2025-11-20,52.0,Female,Mumbai,Maharashtra,Electronics,Smartwatch,2,7664.66,10.0,UPI,3,5.0
+O0168,C1068,2025-03-03,32.0,Male,Bengaluru,Karnataka,Books,Self-Help Book,1,464.77,20.0,Debit Card,3,4.0
+O0500,C1189,2025-05-24,40.0,Female,Delhi,Delhi,Beauty,Perfume,1,1782.18,5.0,Debit Card,2,5.0
+O0880,C1013,2025-01-16,53.0,Female,Hyderabad,Telangana,Electronics,Laptop,1,50388.63,15.0,Cash on Delivery,3,4.0
+O0940,C1043,2025-11-07,26.0,Male,Surat,Gujarat,Home,Cookware Set,2,1589.07,15.0,Cash on Delivery,4,3.0
+O0760,C1274,2025-02-25,52.0,Male,Ahmedabad,Gujarat,Electronics,Smartwatch,1,14951.11,5.0,UPI,3,5.0
+O0101,C1125,2025-06-13,44.0,Female,Ahmedabad,Gujarat,Books,Cookbook,3,465.81,5.0,Cash on Delivery,3,4.0
+O0427,C1154,2025-04-15,37.0,Male,Jaipur,Rajasthan,Beauty,Shampoo,1,724.95,10.0,Debit Card,5,4.0
+O0179,C1243,2025-02-08,43.0,Male,Vadodara,Gujarat,Clothing,Jacket,2,3939.43,5.0,Credit Card,1,5.0
+O0445,C1223,2025-03-22,37.0,Male,Jaipur,Rajasthan,Home,Cookware Set,1,3602.04,5.0,Debit Card,7,3.0
+O0417,C1056,2025-10-13,19.0,Male,Vadodara,Gujarat,Home,Cookware Set,2,3082.71,10.0,Cash on Delivery,5,4.0
+O0651,C1180,2025-04-28,29.0,Female,Surat,Gujarat,Electronics,Laptop,4,70043.92,10.0,UPI,3,4.0
+O0886,C1078,2025-07-28,42.0,Male,Surat,Gujarat,Home,Bedsheet,2,988.56,10.0,UPI,4,4.0
+O0983,C1191,2025-10-17,49.0,Male,Pune,Maharashtra,Clothing,Jeans,4,2948.06,0.0,Credit Card,3,5.0
+O0178,C1146,2025-08-13,24.0,Female,Ahmedabad,Gujarat,Electronics,Smartphone,1,30968.28,0.0,Credit Card,5,3.0
+O0396,C1134,2025-03-29,49.0,Female,Bengaluru,Karnataka,Home,Bedsheet,1,846.83,0.0,Credit Card,2,4.0
+O0680,C1270,2025-08-11,46.0,Male,Delhi,Delhi,Beauty,Face Wash,3,751.86,15.0,UPI,5,4.0
+O0797,C1107,2025-08-22,40.0,Male,Surat,Gujarat,Home,Lamp,3,1772.86,15.0,UPI,2,4.0
+O0964,C1058,2025-06-07,59.0,Female,Hyderabad,Telangana,Clothing,T-Shirt,1,1577.61,0.0,Credit Card,2,5.0
+O0688,C1106,2025-07-18,50.0,Female,Vadodara,Gujarat,Home,Cookware Set,2,2741.96,10.0,Credit Card,4,4.0
+O0384,C1092,2025-11-19,25.0,Female,Bengaluru,Karnataka,Home,Lamp,1,1330.89,5.0,UPI,2,4.0
+O0960,C1107,2025-03-26,40.0,Male,Bengaluru,Karnataka,Clothing,Jeans,1,2933.97,15.0,Net Banking,1,4.0
+O0616,C1105,2025-03-21,51.0,Male,Ahmedabad,Gujarat,Books,Self-Help Book,3,607.85,5.0,Credit Card,3,4.0
+O0258,C1091,2025-12-19,34.0,Male,Hyderabad,Telangana,Home,Lamp,1,1354.99,15.0,UPI,5,3.0
+O0336,C1247,2025-08-21,22.0,Female,Hyderabad,Telangana,Electronics,Headphones,2,1375.23,10.0,Debit Card,2,5.0
+O0016,C1194,2025-08-13,36.0,Female,Hyderabad,Telangana,Home,Cookware Set,3,2479.93,5.0,UPI,3,4.0
+O0325,C1247,2025-07-28,22.0,Female,Ahmedabad,Gujarat,Electronics,Laptop,1,63317.16,10.0,UPI,4,5.0
+O0762,C1202,2025-09-22,34.0,Female,Hyderabad,Telangana,Books,Cookbook,1,656.81,5.0,UPI,3,4.0
+O0223,C1108,2025-05-19,41.0,Male,Vadodara,Gujarat,Beauty,Moisturizer,1,1324.54,20.0,UPI,6,3.0
+O0180,C1028,2025-09-25,44.0,Male,Pune,Maharashtra,Electronics,Smartphone,1,46585.87,10.0,UPI,1,5.0
+O0987,C1279,2025-07-27,21.0,Female,Mumbai,Maharashtra,Electronics,Laptop,2,46053.89,5.0,Cash on Delivery,3,5.0
+O0023,C1157,2025-11-18,45.0,Male,Jaipur,Rajasthan,Clothing,Jeans,5,2146.3,15.0,Debit Card,5,4.0
+O0357,C1104,2025-09-18,29.0,Male,Delhi,Delhi,Electronics,Headphones,4,5855.46,15.0,UPI,2,5.0
+O0670,C1017,2025-04-23,39.0,Female,Surat,Gujarat,Clothing,Jeans,1,1909.9,10.0,Net Banking,3,5.0
+O0865,C1230,2025-11-18,35.0,Female,Mumbai,Maharashtra,Home,Cookware Set,3,1592.34,5.0,UPI,1,5.0
+O0341,C1079,2025-01-08,58.0,Male,Jaipur,Rajasthan,Clothing,Jacket,1,3559.58,5.0,Cash on Delivery,5,3.0
+O0432,C1273,2025-10-01,19.0,Female,Indore,Madhya Pradesh,Electronics,Smartwatch,1,11433.7,10.0,UPI,2,5.0
+O0553,C1123,2025-11-19,31.0,Female,Pune,Maharashtra,Beauty,Shampoo,1,817.4,0.0,Credit Card,7,3.0
+O0837,C1057,2025-03-25,23.0,Female,Delhi,Delhi,Home,Mixer,3,2132.08,0.0,Debit Card,2,5.0
+O0204,C1022,2025-05-07,19.0,Male,Jaipur,Rajasthan,Home,Cookware Set,1,4022.29,0.0,Cash on Delivery,5,4.0
+O0634,C1246,2025-10-08,29.0,Male,Bengaluru,Karnataka,Clothing,T-Shirt,1,959.65,10.0,Credit Card,4,4.0
+O0094,C1089,2025-10-18,41.0,Male,Hyderabad,Telangana,Clothing,T-Shirt,2,1015.02,5.0,Credit Card,2,5.0
+O0560,C1100,2025-05-07,45.0,Male,Vadodara,Gujarat,Beauty,Face Wash,1,349.72,5.0,UPI,5,4.0
+O0069,C1084,2025-01-12,24.0,Male,Pune,Maharashtra,Clothing,T-Shirt,1,1779.17,15.0,UPI,2,5.0
+O0626,C1253,2025-07-05,36.0,Female,Vadodara,Gujarat,Clothing,T-Shirt,3,1585.37,10.0,UPI,2,4.0
+O0285,C1182,2025-09-10,19.0,Male,Mumbai,Maharashtra,Home,Bedsheet,4,2325.57,15.0,Debit Card,1,5.0
+O0808,C1152,2025-05-10,45.0,Female,Indore,Madhya Pradesh,Clothing,Shoes,2,5128.81,20.0,UPI,3,5.0
+O0435,C1181,2025-07-19,56.0,Female,Hyderabad,Telangana,Electronics,Laptop,1,67142.34,10.0,UPI,4,4.0
+O0154,C1178,2025-03-26,41.0,Female,Surat,Gujarat,Electronics,Laptop,1,52824.37,0.0,Credit Card,5,3.0
+O0076,C1123,2025-11-14,31.0,Female,Bengaluru,Karnataka,Electronics,Smartphone,2,16818.99,,Cash on Delivery,4,5.0
+O0821,C1119,2025-11-24,20.0,Female,Bengaluru,Karnataka,Clothing,Jacket,1,3253.53,15.0,Cash on Delivery,5,4.0
+O0447,C1212,2025-08-04,26.0,Female,Hyderabad,Telangana,Electronics,Smartwatch,2,7953.08,10.0,UPI,4,5.0
+O0189,C1109,2025-04-21,54.0,Female,Pune,Maharashtra,Electronics,Laptop,1,58697.92,20.0,Credit Card,3,4.0
+O0272,C1120,2025-12-05,18.0,Male,Bengaluru,Karnataka,Beauty,Face Wash,1,818.21,0.0,UPI,3,5.0
+O0237,C1185,2025-07-21,34.0,Male,Delhi,Delhi,Clothing,Jacket,1,3098.4,15.0,Credit Card,2,4.0
+O0488,C1141,2025-11-04,60.0,Male,Mumbai,Maharashtra,Clothing,T-Shirt,1,906.68,10.0,UPI,3,5.0
+O0118,C1080,2025-05-04,46.0,Female,Mumbai,Maharashtra,Home,Mixer,1,3826.21,5.0,UPI,2,4.0
+O0914,C1109,2025-12-06,54.0,Female,Mumbai,Maharashtra,Electronics,Smartphone,2,38060.33,0.0,UPI,1,4.0
+O0513,C1300,2025-06-25,47.0,Female,Delhi,Delhi,Home,Lamp,1,844.39,10.0,UPI,3,4.0
+O0555,C1151,2025-02-12,23.0,Male,Indore,Madhya Pradesh,Clothing,Shoes,5,3333.34,0.0,UPI,1,5.0
+O0595,C1154,2025-12-10,37.0,Male,Ahmedabad,Gujarat,Home,Cookware Set,3,1774.78,0.0,Debit Card,6,3.0
+O0127,C1111,2025-03-19,57.0,Male,ahmedabad,Gujarat,Electronics,Smartwatch,3,6193.06,10.0,Credit Card,2,5.0
+O0117,C1266,2025-09-20,52.0,Male,Vadodara,Gujarat,Electronics,Smartphone,2,17022.32,20.0,UPI,2,5.0
+O0474,C1156,2025-10-04,28.0,Female,Vadodara,Gujarat,Electronics,Laptop,4,57973.16,15.0,Debit Card,4,4.0
+O0697,C1160,2025-09-16,50.0,Female,Mumbai,Maharashtra,Clothing,Jacket,1,3843.34,15.0,Net Banking,2,4.0
+O0058,C1062,2025-04-08,43.0,Male,Surat,Gujarat,Books,Programming Book,1,791.77,10.0,Credit Card,4,3.0
+O0678,C1068,2025-07-03,32.0,Male,Mumbai,Maharashtra,Clothing,T-Shirt,1,1109.93,0.0,UPI,4,5.0
+O0916,C1114,2025-05-22,52.0,Male,Bengaluru,Karnataka,Home,Cookware Set,2,4263.86,10.0,Net Banking,3,5.0
+O0370,C1087,2025-11-02,18.0,Female,Delhi,Delhi,Clothing,Jacket,1,2233.14,5.0,UPI,3,5.0
+O0269,C1195,2025-09-02,19.0,Male,Hyderabad,Telangana,Home,Lamp,2,843.39,5.0,Cash on Delivery,4,3.0
+O0047,C1291,2025-11-14,39.0,Male,Surat,Gujarat,Beauty,Face Wash,2,426.89,5.0,UPI,6,3.0
+O0350,C1181,2025-07-14,56.0,Female,Hyderabad,Telangana,Beauty,Perfume,1,3569.8,0.0,Net Banking,4,4.0
+O0196,C1189,2025-05-06,40.0,Female,Vadodara,Gujarat,Books,Cookbook,2,633.79,10.0,Debit Card,2,5.0
+O0800,C1186,2025-04-19,19.0,Female,Vadodara,Gujarat,Electronics,Smartphone,1,28001.22,10.0,UPI,2,5.0
+O0838,C1042,2025-09-03,31.0,Female,Mumbai,Maharashtra,Books,Self-Help Book,1,775.18,0.0,UPI,3,5.0
+O0740,C1136,2025-04-15,47.0,Female,Delhi,Delhi,Electronics,Laptop,2,67073.15,5.0,Net Banking,2,5.0
+O0264,C1295,2025-09-18,25.0,Male,Pune,Maharashtra,Electronics,Laptop,1,81142.34,15.0,UPI,3,4.0
+O0444,C1119,2025-05-25,20.0,Female,Hyderabad,Telangana,Books,Self-Help Book,2,854.61,5.0,UPI,4,5.0
+O0679,C1023,2025-08-29,38.0,Male,Pune,Maharashtra,Clothing,Jacket,3,3181.31,15.0,Credit Card,5,4.0
+O0305,C1220,2025-07-25,43.0,Male,Surat,Gujarat,Electronics,Headphones,3,2443.3,5.0,Net Banking,7,2.0
+O0342,C1090,2025-06-29,28.0,Male,Delhi,Delhi,Electronics,Smartwatch,3,6718.18,0.0,UPI,5,3.0
+O0602,C1271,2025-10-30,35.0,Male,Delhi,Delhi,Beauty,Shampoo,1,921.06,5.0,Cash on Delivery,6,2.0
+O0970,C1014,2025-11-16,57.0,Female,Jaipur,Rajasthan,Clothing,Shoes,1,5364.66,10.0,UPI,4,4.0
+O0150,C1177,2025-11-26,49.0,Female,Delhi,Delhi,Home,Bedsheet,1,2224.45,0.0,Debit Card,2,3.0
+O0125,C1069,2025-05-19,25.0,Female,Jaipur,Rajasthan,Beauty,Face Wash,1,692.15,0.0,Debit Card,1,4.0
+O0790,C1277,2025-06-30,53.0,Female,Hyderabad,Telangana,Electronics,Smartphone,3,35779.7,15.0,UPI,6,4.0
+O0826,C1030,2025-05-08,45.0,Female,Bengaluru,Karnataka,Home,Cookware Set,1,2017.11,5.0,UPI,5,5.0
+O0051,C1188,2025-07-29,45.0,Male,Pune,Maharashtra,Clothing,Jacket,1,3496.85,5.0,Credit Card,5,5.0
+O0354,C1057,2025-05-26,23.0,Female,Pune,Maharashtra,Books,Novel,2,488.44,10.0,UPI,2,3.0
+O0931,C1284,2025-10-24,25.0,Male,Hyderabad,Telangana,Clothing,T-Shirt,1,1189.34,15.0,Credit Card,3,5.0
+O0143,C1138,2025-11-16,40.0,Male,Ahmedabad,Gujarat,Clothing,T-Shirt,2,1261.55,10.0,Net Banking,5,3.0
+O0471,C1092,2025-06-20,25.0,Female,Pune,Maharashtra,Books,Self-Help Book,1,747.81,0.0,UPI,2,5.0
+O0400,C1279,2025-10-14,21.0,Female,Jaipur,Rajasthan,Home,Cookware Set,1,1793.04,5.0,Cash on Delivery,2,5.0
+O0629,C1155,2025-04-12,47.0,Female,Pune,Maharashtra,Home,Bedsheet,3,2230.92,10.0,Debit Card,3,5.0
+O0321,C1277,2025-02-09,53.0,Female,Pune,Maharashtra,Home,Bedsheet,1,1339.24,5.0,UPI,4,5.0
+O0020,C1267,2025-08-25,42.0,Male,Surat,Gujarat,Beauty,Perfume,3,1325.65,10.0,Credit Card,3,5.0
+O0881,C1091,2025-01-09,34.0,Male,Hyderabad,Telangana,Clothing,T-Shirt,3,994.25,10.0,UPI,4,5.0
+O0794,C1260,2025-10-09,28.0,Male,Pune,Maharashtra,Home,Mixer,1,2012.13,5.0,UPI,3,4.0
+O0812,C1054,2025-12-28,57.0,Female,Jaipur,Rajasthan,Electronics,Smartwatch,1,11309.94,0.0,UPI,5,3.0
+O0408,C1178,2025-06-24,41.0,Female,Bengaluru,Karnataka,Clothing,T-Shirt,1,900.24,15.0,Net Banking,6,3.0
+O0538,C1020,2025-08-13,47.0,Male,Mumbai,Maharashtra,Clothing,Jeans,2,2368.87,15.0,Credit Card,2,5.0
+O0696,C1033,2025-11-15,20.0,Male,Bengaluru,Karnataka,Books,Novel,3,623.82,15.0,Cash on Delivery,4,4.0
+O0039,C1293,2025-08-03,55.0,Female,Bengaluru,Karnataka,Clothing,Jeans,1,1872.25,20.0,Debit Card,2,5.0
+O0176,C1041,2025-03-13,42.0,Male,Surat,Gujarat,Electronics,Smartwatch,4,8132.46,0.0,Credit Card,4,4.0
+O0246,C1097,2025-07-16,59.0,Female,Pune,Maharashtra,Clothing,Shoes,3,1807.59,5.0,Credit Card,4,4.0
+O0951,C1052,2025-03-24,34.0,Female,Pune,Maharashtra,Clothing,Shoes,1,2659.46,10.0,UPI,3,5.0
+O0671,C1035,2025-12-22,24.0,Female,Pune,Maharashtra,Clothing,Shoes,3,2257.98,20.0,Net Banking,2,5.0
+O0758,C1093,2025-04-24,52.0,Female,Pune,Maharashtra,Electronics,Smartwatch,3,11284.23,10.0,UPI,4,3.0
+O0862,C1211,2025-11-30,50.0,Female,Pune,Maharashtra,Clothing,T-Shirt,1,689.82,5.0,Credit Card,4,5.0
+O0155,C1072,2025-12-29,57.0,Female,Indore,Madhya Pradesh,Beauty,Shampoo,1,640.14,10.0,UPI,4,5.0
+O0288,C1029,2025-04-20,59.0,Male,Vadodara,Gujarat,Beauty,Shampoo,1,780.55,5.0,Credit Card,6,5.0
+O0606,C1299,2025-07-23,38.0,Female,Hyderabad,Telangana,Clothing,T-Shirt,1,1021.15,10.0,UPI,5,4.0
+O0570,C1273,2025-07-05,19.0,Female,Mumbai,Maharashtra,Books,Self-Help Book,1,723.47,5.0,UPI,4,3.0
+O0747,C1123,2025-11-20,31.0,Female,Mumbai,Maharashtra,Books,Novel,3,316.8,10.0,Net Banking,3,4.0
+O0018,C1010,2025-02-07,28.0,Male,Vadodara,Gujarat,Home,Bedsheet,3,1280.24,5.0,Debit Card,5,
+O0128,C1105,2025-09-26,51.0,Male,Jaipur,Rajasthan,Home,Bedsheet,5,775.51,15.0,UPI,7,2.0
+O0323,C1056,2025-03-31,19.0,Male,Pune,Maharashtra,Electronics,Smartphone,2,17353.2,10.0,UPI,4,4.0
+O0256,C1151,2025-11-14,23.0,Male,Ahmedabad,Gujarat,Electronics,Smartwatch,1,5180.08,5.0,UPI,3,4.0
+O0661,C1114,2025-03-15,52.0,Male,Delhi,Delhi,Home,Mixer,2,1979.21,10.0,UPI,3,5.0
+O0968,C1033,2025-12-12,20.0,Male,Pune,Maharashtra,Electronics,Smartphone,4,23863.59,0.0,UPI,2,5.0
+O0191,C1008,2025-05-29,36.0,Male,Pune,Maharashtra,Electronics,Laptop,1,66720.98,20.0,Cash on Delivery,4,5.0
+O0116,C1020,2025-01-05,47.0,Male,Delhi,Delhi,Clothing,Shoes,1,1501.5,10.0,Credit Card,3,4.0
+O0799,C1280,2025-02-13,50.0,Female,Mumbai,Maharashtra,Clothing,T-Shirt,2,844.55,10.0,Credit Card,2,4.0
+O0607,C1042,2025-11-04,31.0,Female,Hyderabad,Telangana,Beauty,Moisturizer,2,1189.06,5.0,Cash on Delivery,3,5.0
+O0181,C1235,2025-04-17,42.0,Male,Hyderabad,Telangana,Clothing,T-Shirt,3,1683.18,5.0,Credit Card,5,4.0
+O0302,C1040,2025-11-23,21.0,Male,Pune,Maharashtra,Clothing,Jacket,2,3366.06,10.0,Credit card,5,3.0
+O0763,C1135,2025-02-19,21.0,Female,Delhi,Delhi,Books,Programming Book,3,1264.13,10.0,UPI,1,5.0
+O0716,C1231,2025-08-23,57.0,Female,Vadodara,Gujarat,Electronics,Smartwatch,1,7893.85,10.0,UPI,6,2.0
+O0900,C1280,2025-01-29,50.0,Female,Hyderabad,Telangana,Electronics,Smartwatch,2,3668.35,0.0,Credit Card,5,4.0
+O0689,C1112,2025-01-09,39.0,Male,Bengaluru,Karnataka,Electronics,Headphones,2,2727.16,15.0,Debit Card,5,3.0
+O0665,C1048,2025-01-02,24.0,Male,Indore,Madhya Pradesh,Clothing,Jacket,2,4495.89,0.0,UPI,3,4.0
+O0518,C1196,2025-05-17,43.0,Female,Mumbai,Maharashtra,Clothing,T-Shirt,2,1690.56,15.0,UPI,7,3.0
+O0988,C1063,2025-01-09,51.0,Female,Bengaluru,Karnataka,Clothing,Jacket,1,3579.38,10.0,Debit Card,3,3.0
+O0046,C1201,2025-02-08,28.0,Female,Bengaluru,Karnataka,Beauty,Face Wash,2,298.84,10.0,Debit Card,3,4.0
+O0913,C1113,2025-07-28,44.0,Female,Pune,Maharashtra,Clothing,T-Shirt,3,1047.79,10.0,Credit Card,7,4.0
+O0158,C1025,2025-09-22,29.0,Male,Bengaluru,Karnataka,Electronics,Smartwatch,1,12786.98,5.0,Net Banking,3,4.0
+O0967,C1013,2025-09-12,53.0,Female,Vadodara,Gujarat,Clothing,Shoes,4,2765.67,0.0,Debit Card,3,4.0
+O0172,C1067,2025-06-02,48.0,Female,Indore,Madhya Pradesh,Home,Bedsheet,2,1781.17,10.0,Debit Card,1,5.0
+O0017,C1020,2025-06-27,47.0,Male,Ahmedabad,Gujarat,Electronics,Headphones,1,5352.22,10.0,UPI,3,4.0
+O0512,C1181,2025-04-10,56.0,Female,Mumbai,Maharashtra,Home,Cookware Set,1,2328.97,0.0,Credit Card,2,3.0
+O0049,C1143,2025-06-25,53.0,Male,Hyderabad,Telangana,Home,Mixer,2,1926.17,15.0,UPI,4,3.0
+O0975,C1214,2025-05-29,33.0,Male,Surat,Gujarat,Books,Novel,1,612.61,5.0,Credit Card,2,5.0
+O0844,C1005,2025-04-26,25.0,Male,Pune,Maharashtra,Beauty,Shampoo,1,534.17,0.0,Debit Card,5,5.0
+O0516,C1146,2025-03-23,24.0,Female,Vadodara,Gujarat,Electronics,Laptop,1,73842.19,10.0,UPI,3,4.0
+O0690,C1281,2025-07-15,31.0,Male,Surat,Gujarat,Electronics,Smartphone,5,35682.06,0.0,UPI,5,3.0
+O0481,C1082,2025-07-23,18.0,Male,Vadodara,Gujarat,Books,Self-Help Book,1,491.83,10.0,Credit Card,5,4.0
+O0284,C1217,2025-11-27,37.0,Male,Indore,Madhya Pradesh,Books,Programming Book,4,922.88,20.0,Cash on Delivery,5,4.0
+O0722,C1202,2025-07-13,34.0,Female,Bengaluru,Karnataka,Clothing,Shoes,3,1538.03,0.0,Net Banking,6,4.0
+O0658,C1203,2025-03-31,55.0,Female,Mumbai,Maharashtra,Electronics,Laptop,2,45453.3,20.0,Credit Card,3,5.0
+O0226,C1187,2025-06-05,19.0,Female,Delhi,Delhi,Books,Self-Help Book,2,805.88,15.0,Cash on Delivery,3,3.0
+O0027,C1111,2025-02-20,57.0,Male,Mumbai,Maharashtra,Beauty,Shampoo,3,939.06,0.0,Debit Card,5,3.0
+O0786,C1236,2025-02-06,40.0,Male,Pune,Maharashtra,Electronics,Laptop,1,81931.98,15.0,Credit Card,3,5.0
+O0438,C1212,2025-02-13,26.0,Female,Mumbai,Maharashtra,Electronics,Smartwatch,4,11439.06,5.0,Credit Card,6,3.0
+O0955,C1228,2025-02-20,57.0,Female,Pune,Maharashtra,Home,Cookware Set,2,4752.48,15.0,UPI,2,4.0
+O0365,C1042,2025-09-20,31.0,Female,Vadodara,Gujarat,Beauty,Perfume,2,2394.02,5.0,UPI,4,5.0
+O0230,C1257,2025-10-05,41.0,Female,Mumbai,Maharashtra,Electronics,Laptop,2,49072.15,5.0,UPI,1,5.0
+O0038,C1082,2025-09-18,18.0,Male,Pune,Maharashtra,Books,Programming Book,1,944.36,5.0,Credit Card,2,4.0
+O0969,C1193,2025-02-19,18.0,Female,Mumbai,Maharashtra,Electronics,Headphones,2,7132.77,10.0,UPI,4,4.0
+O0375,C1237,2025-09-03,48.0,Female,Indore,Madhya Pradesh,Clothing,Shoes,1,5107.58,5.0,Net Banking,1,5.0
+O0470,C1042,2025-07-12,31.0,Female,Pune,Maharashtra,Clothing,Jacket,1,3240.76,5.0,Debit Card,3,5.0
+O0971,C1098,2025-01-25,56.0,Male,Hyderabad,Telangana,Books,Self-Help Book,2,255.22,10.0,UPI,3,4.0
+O0854,C1137,2025-01-10,54.0,Male,Pune,Maharashtra,Beauty,Shampoo,5,483.12,15.0,Credit Card,4,4.0
+O0708,C1107,2025-03-31,40.0,Male,Mumbai,Maharashtra,Beauty,Perfume,1,3870.7,5.0,Cash on Delivery,4,4.0
+O0729,C1079,2025-08-24,58.0,Male,Surat,Gujarat,Electronics,Headphones,2,4666.35,5.0,Credit Card,3,5.0
+O0195,C1163,2025-01-13,30.0,Female,Indore,Madhya Pradesh,Electronics,Laptop,1,79158.48,15.0,Cash on Delivery,1,5.0
+O0858,C1147,2025-05-31,39.0,Male,Delhi,Delhi,Clothing,Jacket,1,3234.77,0.0,UPI,5,3.0
+O0868,C1070,2025-07-04,31.0,Male,Delhi,Delhi,Beauty,Perfume,2,3390.96,15.0,Credit Card,4,4.0
+O0504,C1102,2025-11-01,26.0,Male,Pune,Maharashtra,Electronics,Smartphone,1,26435.86,10.0,UPI,1,5.0
+O0973,C1161,2025-09-28,18.0,Male,Hyderabad,Telangana,Electronics,Smartphone,1,43648.99,10.0,Debit Card,3,5.0
+O0834,C1074,2025-05-12,33.0,Male,Surat,Gujarat,Home,Cookware Set,3,4799.13,10.0,UPI,2,4.0
+O0580,C1079,2025-08-14,58.0,Male,Bengaluru,Karnataka,Electronics,Smartphone,3,40733.79,5.0,Cash on Delivery,2,4.0
+O0972,C1131,2025-10-18,30.0,Male,Hyderabad,Telangana,Home,Bedsheet,1,2084.91,10.0,Credit Card,1,5.0
+O0163,C1294,2025-05-14,55.0,Male,Surat,Gujarat,Clothing,T-Shirt,1,1492.1,15.0,Cash on Delivery,2,5.0
+O0706,C1175,2025-11-26,32.0,Male,Surat,Gujarat,Electronics,Smartphone,1,15554.87,5.0,Credit Card,2,5.0
+O0153,C1058,2025-03-30,59.0,Female,Vadodara,Gujarat,Beauty,Face Wash,1,292.38,15.0,Credit Card,3,5.0
+O0685,C1151,2025-05-01,23.0,Male,Indore,Madhya Pradesh,Home,Bedsheet,2,1786.45,15.0,Net Banking,3,5.0
+O0704,C1015,2025-08-08,41.0,Male,Jaipur,Rajasthan,Clothing,T-Shirt,1,853.97,10.0,Debit Card,4,5.0
+O0759,C1184,2025-08-10,54.0,Male,Delhi,Delhi,Electronics,Laptop,1,72373.15,10.0,UPI,3,5.0
+O0112,C1101,2025-05-14,24.0,Male,Ahmedabad,Gujarat,Clothing,Shoes,3,2023.65,5.0,Cash on Delivery,5,4.0
+O0227,C1255,2025-05-21,20.0,Female,Hyderabad,Telangana,Home,Cookware Set,3,2625.84,10.0,UPI,3,4.0
+O0765,C1106,2025-06-19,50.0,Female,Delhi,Delhi,Electronics,Smartwatch,1,5185.68,5.0,UPI,3,5.0
+O0104,C1280,2025-12-19,50.0,Female,Mumbai,Maharashtra,Electronics,Headphones,2,6125.5,5.0,UPI,2,4.0
+O0422,C1114,2025-03-02,52.0,Male,Pune,Maharashtra,Electronics,Smartwatch,1,9307.89,20.0,UPI,5,3.0
+O0420,C1185,2025-06-07,34.0,Male,Delhi,Delhi,Clothing,Jacket,3,4927.99,10.0,Credit Card,5,4.0
+O0754,C1200,2025-07-21,21.0,Female,Indore,Madhya Pradesh,Home,Mixer,2,3614.44,0.0,Net Banking,2,4.0
+O0587,C1200,2025-04-26,21.0,Female,Jaipur,Rajasthan,Electronics,Smartwatch,1,4545.95,0.0,Debit Card,2,4.0
+O0784,C1257,2025-09-03,41.0,Female,Indore,Madhya Pradesh,Books,Cookbook,1,688.93,5.0,Credit Card,3,4.0
+O0673,C1170,2025-03-02,26.0,Male,Jaipur,Rajasthan,Clothing,T-Shirt,1,712.69,5.0,Debit Card,4,5.0
+O0120,C1183,2025-03-06,20.0,Male,Pune,Maharashtra,Clothing,Jacket,1,1861.42,15.0,UPI,3,4.0
+O0054,C1065,2025-03-14,53.0,Female,Indore,Madhya Pradesh,Electronics,Headphones,1,3153.23,5.0,UPI,1,4.0
+O0152,C1154,2025-06-17,37.0,Male,Mumbai,Maharashtra,Clothing,Jeans,1,2038.77,15.0,Cash on Delivery,5,3.0
+O0404,C1191,2025-12-03,49.0,Male,Hyderabad,Telangana,Books,Programming Book,1,1494.05,10.0,Net Banking,4,5.0
+O0949,C1041,2025-06-21,42.0,Male,Bengaluru,Karnataka,Electronics,Smartwatch,2,3990.36,10.0,Credit Card,1,5.0
+O0208,C1101,2025-10-20,24.0,Male,Ahmedabad,Gujarat,Books,Cookbook,4,773.28,5.0,Credit Card,4,4.0
+O0659,C1280,2025-06-05,50.0,Female,Mumbai,Maharashtra,Books,Self-Help Book,1,620.16,10.0,UPI,5,4.0
+O0847,C1062,2025-12-12,43.0,Male,Indore,Madhya Pradesh,Clothing,Jacket,1,3561.96,5.0,Credit Card,6,4.0
+O0766,C1082,2025-03-04,18.0,Male,Vadodara,Gujarat,Home,Bedsheet,4,2402.41,5.0,UPI,2,3.0
+O0009,C1121,2025-01-28,22.0,Female,Ahmedabad,Gujarat,Home,Cookware Set,3,2469.07,10.0,UPI,2,5.0
+O0811,C1158,2025-02-28,42.0,Female,Mumbai,Maharashtra,Home,Mixer,3,2326.06,15.0,UPI,3,4.0
+O0037,C1182,2025-07-07,19.0,Male,Jaipur,Rajasthan,Electronics,Headphones,1,7295.08,0.0,UPI,1,5.0
+O0453,C1177,2025-10-06,49.0,Female,Hyderabad,Telangana,Books,Self-Help Book,2,812.3,10.0,UPI,4,3.0
+O0652,C1192,2025-03-14,50.0,Female,Delhi,Delhi,Home,Lamp,2,1128.87,10.0,Credit Card,4,5.0
+O0254,C1262,2025-09-28,53.0,Male,Hyderabad,Telangana,Books,Novel,1,204.16,0.0,Debit Card,6,4.0
+O0304,C1188,2025-04-30,45.0,Male,Delhi,Delhi,Clothing,Jacket,2,2535.45,5.0,Debit Card,2,5.0
+O0750,C1171,2025-02-23,54.0,Female,Pune,Maharashtra,Home,Lamp,2,1460.18,10.0,Net Banking,2,5.0
+O0572,C1177,2025-04-28,49.0,Female,Delhi,Delhi,Electronics,Headphones,1,3017.36,0.0,UPI,3,5.0
+O0624,C1144,2025-04-22,30.0,Female,Surat,Gujarat,Electronics,Laptop,2,62100.3,5.0,UPI,3,5.0
+O0713,C1163,2025-09-10,30.0,Female,Vadodara,Gujarat,Clothing,Jeans,1,2264.94,10.0,UPI,3,5.0
+O0723,C1110,2025-07-24,52.0,Female,Mumbai,Maharashtra,Electronics,Smartwatch,1,5303.42,5.0,Debit Card,2,5.0
+O0263,C1023,2025-12-28,38.0,Male,Hyderabad,Telangana,Electronics,Laptop,3,78142.22,5.0,Cash on Delivery,6,3.0
+O0611,C1132,2025-05-05,49.0,Female,Bengaluru,Karnataka,Home,Mixer,3,2369.22,10.0,UPI,5,4.0
+O0298,C1093,2025-03-27,52.0,Female,Hyderabad,Telangana,Electronics,Smartwatch,1,5705.79,10.0,UPI,2,5.0
+O0415,C1214,2025-10-10,33.0,Male,Delhi,Delhi,Beauty,Shampoo,3,799.64,10.0,UPI,4,3.0
+O0151,C1098,2025-01-20,56.0,Male,Jaipur,Rajasthan,Books,Programming Book,1,1209.06,10.0,Cash on Delivery,3,4.0
+O0890,C1210,2025-05-26,33.0,Male,Jaipur,Rajasthan,Electronics,Laptop,1,61655.69,15.0,UPI,4,4.0
+O0641,C1063,2025-11-24,51.0,Female,Pune,Maharashtra,Home,Cookware Set,2,2881.83,0.0,Net Banking,3,4.0
+O0893,C1065,2025-10-24,53.0,Female,Delhi,Delhi,Electronics,Smartwatch,2,6715.47,10.0,UPI,2,5.0
+O0551,C1287,2025-12-30,34.0,Male,Mumbai,Maharashtra,Books,Programming Book,1,1445.8,10.0,Debit Card,2,5.0
+O0833,C1221,2025-07-27,20.0,Female,Mumbai,Maharashtra,Home,Bedsheet,2,1002.82,10.0,Debit Card,3,5.0
+O0489,C1171,2025-12-19,54.0,Female,Jaipur,Rajasthan,Books,Self-Help Book,3,810.44,,Cash on Delivery,5,5.0
+O0148,C1199,2025-08-06,49.0,Female,Indore,Madhya Pradesh,Clothing,Jeans,2,1520.32,20.0,UPI,4,5.0
+O0147,C1084,2025-05-23,24.0,Male,Bengaluru,Karnataka,Home,Lamp,1,1191.84,15.0,UPI,2,5.0
+O0724,C1207,2025-02-04,23.0,Female,Pune,Maharashtra,Clothing,Jacket,1,3080.5,10.0,Cash on Delivery,3,5.0
+O0935,C1174,2025-12-26,41.0,Male,Ahmedabad,Gujarat,Electronics,Headphones,3,4403.55,0.0,Cash on Delivery,6,3.0
+O0825,C1009,2025-03-19,40.0,Female,Ahmedabad,Gujarat,Clothing,Shoes,4,1837.92,5.0,Cash on Delivery,5,4.0
+O0660,C1060,2025-12-22,46.0,Male,Jaipur,Rajasthan,Electronics,Smartphone,3,20760.24,20.0,Debit Card,1,5.0
+O0349,C1107,2025-02-16,40.0,Male,Jaipur,Rajasthan,Clothing,Jacket,2,2118.55,10.0,UPI,3,4.0
+O0464,C1170,2025-12-10,26.0,Male,Pune,Maharashtra,Books,Cookbook,1,502.47,10.0,UPI,6,3.0
+O0326,C1022,2025-03-19,19.0,Male,Indore,Madhya Pradesh,Clothing,T-Shirt,1,705.8,10.0,UPI,5,3.0
+O0187,C1030,2025-04-19,45.0,Female,Pune,Maharashtra,Electronics,Smartphone,1,48457.16,15.0,Debit Card,5,4.0
+O0124,C1277,2025-06-22,53.0,Female,Vadodara,Gujarat,Beauty,Shampoo,1,539.76,5.0,Cash on Delivery,3,4.0
+O0892,C1091,2025-09-15,34.0,Male,Hyderabad,Telangana,Clothing,T-Shirt,2,1658.29,15.0,Credit Card,2,5.0
+O0609,C1150,2025-12-03,59.0,Female,Jaipur,Rajasthan,Electronics,Smartphone,1,29528.75,10.0,UPI,3,4.0
+O0144,C1049,2025-10-07,25.0,Male,Pune,Maharashtra,Clothing,Shoes,2,4677.09,0.0,Cash on Delivery,6,
+O0962,C1016,2025-04-04,20.0,Female,Delhi,Delhi,Home,Mixer,4,2083.0,15.0,UPI,3,4.0
+O0198,C1030,2025-05-08,45.0,Female,Mumbai,Maharashtra,Electronics,Laptop,2,78365.78,0.0,Debit Card,5,4.0
+O0610,C1192,2025-07-21,50.0,Female,Indore,Madhya Pradesh,Electronics,Smartphone,5,18139.53,15.0,Credit Card,2,5.0
+O0280,C1040,2025-12-12,21.0,Male,Hyderabad,Telangana,Home,Bedsheet,1,1612.71,0.0,Debit Card,3,3.0
+O0294,C1235,2025-07-31,42.0,Male,Indore,Madhya Pradesh,Electronics,Laptop,2,52866.14,5.0,Cash on Delivery,7,4.0
+O0401,C1276,2025-12-06,58.0,Male,Vadodara,Gujarat,Clothing,T-Shirt,1,1754.77,10.0,Debit Card,3,4.0
+O0123,C1021,2025-08-20,55.0,Male,Bengaluru,Karnataka,Books,Novel,2,251.07,20.0,Cash on Delivery,1,5.0
+O0184,C1007,2025-05-06,56.0,Female,Ahmedabad,Gujarat,Electronics,Smartwatch,1,6823.47,0.0,Debit Card,4,5.0
+O0203,C1031,2025-12-01,33.0,Male,Hyderabad,Telangana,Books,Programming Book,2,1261.62,0.0,Debit Card,2,5.0
+O0439,C1269,2025-12-03,42.0,Male,Vadodara,Gujarat,Home,Bedsheet,2,1900.12,5.0,UPI,1,4.0
+O0247,C1047,2025-12-04,45.0,Male,Mumbai,Maharashtra,Clothing,T-Shirt,2,1372.92,5.0,Credit Card,5,4.0
+O0416,C1171,2025-12-28,54.0,Female,Hyderabad,Telangana,Beauty,Face Wash,1,321.89,20.0,UPI,1,5.0
+O0855,C1284,2025-04-22,25.0,Male,Indore,Madhya Pradesh,Clothing,Jeans,4,2477.56,10.0,Credit Card,6,5.0
+O0878,C1025,2025-02-26,29.0,Male,Pune,Maharashtra,Beauty,Shampoo,1,883.16,15.0,Cash on Delivery,2,5.0
+O0910,C1255,2025-12-27,20.0,Female,Bengaluru,Karnataka,Electronics,Smartwatch,2,12897.8,5.0,Debit Card,4,4.0
+O0915,C1032,2025-05-12,32.0,Male,Mumbai,Maharashtra,Electronics,Smartphone,4,35060.22,10.0,Credit Card,6,3.0
+O0891,C1286,2025-05-29,20.0,Female,Ahmedabad,Gujarat,Books,Novel,2,253.46,10.0,Credit Card,5,4.0
+O0130,C1278,2025-08-10,50.0,Male,Pune,Maharashtra,Clothing,Shoes,2,4541.92,0.0,Net Banking,4,3.0
+O0638,C1122,2025-11-16,43.0,Female,Vadodara,Gujarat,Electronics,Smartphone,1,39819.45,0.0,Cash on Delivery,1,5.0
+O0403,C1183,2025-09-30,20.0,Male,Delhi,Delhi,Electronics,Headphones,1,5562.67,15.0,Cash on Delivery,2,5.0
+O0788,C1185,2025-03-29,34.0,Male,Mumbai,Maharashtra,Electronics,Smartwatch,2,14448.38,10.0,Cash on Delivery,2,5.0
+O0774,C1280,2025-07-10,50.0,Female,Surat,Gujarat,Books,Cookbook,2,851.71,10.0,Credit Card,5,4.0
+O0736,C1287,2025-01-31,34.0,Male,Mumbai,Maharashtra,Electronics,Laptop,1,78721.48,10.0,Credit Card,3,5.0
+O0917,C1210,2025-09-03,33.0,Male,Hyderabad,Telangana,Electronics,Headphones,3,7169.07,0.0,Credit Card,2,5.0
+O0220,C1049,2025-01-05,25.0,Male,Indore,Madhya Pradesh,Books,Self-Help Book,2,721.24,0.0,Debit Card,4,5.0
+O0642,C1105,2025-07-05,51.0,Male,Bengaluru,Karnataka,Books,Programming Book,1,1137.58,15.0,UPI,6,3.0
+O0919,C1103,2025-04-16,25.0,Male,Hyderabad,Telangana,Home,Mixer,1,4732.55,0.0,Cash on Delivery,3,4.0
+O0756,C1212,2025-12-31,26.0,Female,Hyderabad,Telangana,Electronics,Headphones,2,7854.85,15.0,Cash on Delivery,2,5.0
+O0810,C1284,2025-01-21,25.0,Male,Surat,Gujarat,Books,Self-Help Book,1,399.82,5.0,Credit Card,1,5.0
+O0923,C1083,2025-04-12,42.0,Male,Vadodara,Gujarat,Home,Bedsheet,2,1170.92,5.0,Debit Card,4,5.0
+O0625,C1230,2025-06-12,35.0,Female,Hyderabad,Telangana,Electronics,Smartwatch,3,5819.84,5.0,UPI,3,4.0
+O0842,C1016,2025-06-14,20.0,Female,Vadodara,Gujarat,Electronics,Smartphone,4,24664.15,5.0,Cash on Delivery,2,5.0
+O0888,C1077,2025-02-04,43.0,Male,Vadodara,Gujarat,Books,Cookbook,4,992.21,0.0,Net Banking,3,5.0
+O0387,C1216,2025-01-28,20.0,Female,Jaipur,Rajasthan,Clothing,Jacket,1,3759.28,5.0,Cash on Delivery,2,4.0
+O0976,C1072,2025-02-07,57.0,Female,Hyderabad,Telangana,Books,Self-Help Book,1,466.48,5.0,Debit Card,3,4.0
+O0510,C1026,2025-01-28,39.0,Female,Vadodara,Gujarat,Electronics,Smartwatch,1,13837.32,20.0,Credit Card,6,3.0
+O0268,C1047,2025-01-19,45.0,Male,Delhi,Delhi,Clothing,Jacket,4,2502.57,10.0,Credit Card,3,5.0
+O0823,C1059,2025-02-13,21.0,Female,Hyderabad,Telangana,Electronics,Headphones,1,7421.52,15.0,Net Banking,6,4.0
+O0442,C1019,2025-03-10,41.0,Male,Pune,Maharashtra,Clothing,Jacket,3,2082.03,15.0,UPI,3,4.0
+O0497,C1260,2025-05-03,28.0,Male,Mumbai,Maharashtra,Clothing,Shoes,5,4443.99,0.0,UPI,3,5.0
+O0113,C1067,2025-10-08,48.0,Female,Bengaluru,Karnataka,Beauty,Moisturizer,1,687.03,0.0,UPI,6,4.0
+O0692,C1128,2025-11-24,32.0,Female,Surat,Gujarat,Beauty,Moisturizer,1,1057.02,5.0,Credit Card,3,4.0
+O0233,C1112,2025-01-24,39.0,Male,Bengaluru,Karnataka,Books,Cookbook,1,555.05,15.0,Credit Card,2,5.0
+O0873,C1168,2025-01-07,25.0,Female,Indore,Madhya Pradesh,Books,Cookbook,2,645.12,10.0,Net Banking,1,5.0
+O0608,C1091,2025-04-15,34.0,Male,Ahmedabad,Gujarat,Clothing,Jeans,1,2596.97,5.0,UPI,3,5.0
+O0672,C1168,2025-05-06,25.0,Female,Bengaluru,Karnataka,Clothing,T-Shirt,1,1252.87,15.0,Debit Card,4,5.0
+O0374,C1108,2025-03-31,41.0,Male,Vadodara,Gujarat,Books,Cookbook,1,514.88,10.0,UPI,7,2.0
+O0985,C1283,2025-10-01,37.0,Female,Surat,Gujarat,Books,Novel,1,573.87,5.0,UPI,4,4.0
+O0846,C1065,2025-12-10,53.0,Female,Jaipur,Rajasthan,Clothing,T-Shirt,3,1415.66,5.0,UPI,4,3.0
+O0234,C1004,2025-11-14,60.0,Male,Ahmedabad,Gujarat,Electronics,Laptop,1,66563.78,5.0,UPI,2,5.0
+O0789,C1235,2025-02-18,42.0,Male,Delhi,Delhi,Home,Cookware Set,3,4355.49,15.0,UPI,7,3.0
+O0677,C1045,2025-11-21,19.0,Female,Surat,Gujarat,Electronics,Laptop,2,64410.22,5.0,UPI,2,4.0
+O0318,C1010,2025-02-13,28.0,Male,Pune,Maharashtra,Electronics,Smartwatch,4,3934.96,15.0,Credit Card,5,4.0
+O0649,C1222,2025-03-27,36.0,Male,Ahmedabad,Gujarat,Beauty,Perfume,1,2331.85,15.0,Cash on Delivery,4,5.0
+O0411,C1222,2025-07-11,36.0,Male,Ahmedabad,Gujarat,Books,Novel,1,228.08,10.0,UPI,2,5.0
+O0902,C1006,2025-04-01,38.0,Female,Mumbai,Maharashtra,Home,Bedsheet,1,1172.59,5.0,Debit Card,1,5.0
+O0710,C1066,2025-06-23,31.0,Male,Bengaluru,Karnataka,Books,Cookbook,3,612.05,15.0,Credit Card,4,4.0
+O0359,C1110,2025-11-21,52.0,Female,Indore,Madhya Pradesh,Electronics,Headphones,3,7281.95,15.0,Credit Card,5,5.0
+O0259,C1182,2025-04-17,19.0,Male,Indore,Madhya Pradesh,Books,Self-Help Book,1,761.79,15.0,Debit Card,5,5.0
+O0745,C1115,2025-03-07,18.0,Female,Vadodara,Gujarat,Clothing,Shoes,2,4319.96,0.0,Cash on Delivery,1,4.0
+O0628,C1190,2025-01-04,54.0,Female,Pune,Maharashtra,Books,Cookbook,4,340.75,10.0,Credit Card,5,3.0
+O0633,C1015,2025-09-06,41.0,Male,Jaipur,Rajasthan,Books,Cookbook,1,889.79,10.0,Credit Card,2,4.0
+O0283,C1204,2025-06-25,41.0,Male,Ahmedabad,Gujarat,Electronics,Smartwatch,1,8299.88,5.0,Cash on Delivery,5,4.0
+O0377,C1210,2025-01-22,33.0,Male,Hyderabad,Telangana,Clothing,T-Shirt,1,1075.35,15.0,Cash on Delivery,4,5.0
+O0385,C1006,2025-06-24,38.0,Female,Jaipur,Rajasthan,Beauty,Moisturizer,1,771.78,0.0,UPI,5,4.0
+O0225,C1273,2025-03-22,19.0,Female,Vadodara,Gujarat,Books,Novel,1,683.53,15.0,Debit Card,3,4.0
+O0957,C1072,2025-06-22,57.0,Female,Jaipur,Rajasthan,Books,Self-Help Book,2,705.14,0.0,Debit Card,3,4.0
+O0818,C1216,2025-11-29,20.0,Female,Surat,Gujarat,Electronics,Smartwatch,2,7633.76,10.0,Net Banking,1,5.0
+O0473,C1266,2025-01-25,52.0,Male,Ahmedabad,Gujarat,Clothing,T-Shirt,2,1520.75,20.0,UPI,6,3.0
+O0348,C1181,2025-09-02,56.0,Female,Mumbai,Maharashtra,Beauty,Shampoo,2,584.83,10.0,Credit Card,4,4.0
+O0506,C1153,2025-07-23,45.0,Male,Delhi,Delhi,Electronics,Headphones,2,5135.54,15.0,Debit Card,5,5.0
+O0640,C1243,2025-08-17,43.0,Male,Mumbai,Maharashtra,Home,Bedsheet,2,1754.4,10.0,Cash on Delivery,2,5.0
+O0991,C1021,2025-09-16,55.0,Male,Vadodara,Gujarat,Clothing,Jacket,1,3600.49,0.0,Debit Card,4,4.0
+O0932,C1211,2025-11-13,50.0,Female,Delhi,Delhi,Home,Mixer,1,4543.95,5.0,Debit Card,4,5.0
+O0909,C1060,2025-05-06,46.0,Male,Surat,Gujarat,Clothing,Jacket,1,4494.48,15.0,Credit Card,4,5.0
+O0620,C1278,2025-01-15,50.0,Male,Vadodara,Gujarat,Electronics,Smartphone,1,33115.98,20.0,UPI,5,4.0
+O0859,C1176,2025-08-02,49.0,Male,Indore,Madhya Pradesh,Electronics,Smartwatch,1,2736.01,10.0,Debit Card,3,5.0
+O0807,C1044,2025-09-01,43.0,Male,Bengaluru,Karnataka,Home,Mixer,2,4435.71,10.0,Debit Card,6,4.0
+O0646,C1138,2025-11-26,40.0,Male,Vadodara,Gujarat,Home,Bedsheet,1,1877.61,20.0,UPI,7,3.0
+O0850,C1229,2025-11-27,56.0,Female,Jaipur,Rajasthan,Clothing,Jeans,2,2086.94,0.0,Credit Card,2,5.0
+O0557,C1222,2025-06-17,36.0,Male,Ahmedabad,Gujarat,Books,Cookbook,1,310.99,0.0,UPI,2,5.0
+O0961,C1280,2025-11-23,50.0,Female,Vadodara,Gujarat,Electronics,Smartphone,1,47732.62,10.0,Credit Card,5,4.0
+O0578,C1091,2025-03-05,34.0,Male,hyderabad,Telangana,Home,Mixer,2,3217.44,15.0,Credit Card,6,3.0
+O0796,C1258,2025-03-01,50.0,Male,Indore,Madhya Pradesh,Electronics,Smartphone,3,49339.59,10.0,Debit Card,2,5.0
+O0086,C1064,2025-11-08,27.0,Male,Bengaluru,Karnataka,Clothing,Shoes,1,4224.92,10.0,Cash on Delivery,4,3.0
+O0243,C1189,2025-08-28,40.0,Female,Surat,Gujarat,Electronics,Smartwatch,2,11327.41,10.0,Credit Card,3,4.0
+O0699,C1017,2025-11-29,39.0,Female,Surat,Gujarat,Home,Bedsheet,3,2208.17,15.0,UPI,2,5.0
+O0160,C1156,2025-10-06,28.0,Female,Ahmedabad,Gujarat,Beauty,Perfume,1,1567.6,5.0,Credit Card,4,5.0
+O0525,C1027,2025-01-26,42.0,Female,Vadodara,Gujarat,Clothing,Shoes,1,1533.58,10.0,Credit Card,4,5.0
+O0036,C1092,2025-06-14,25.0,Female,Surat,Gujarat,Electronics,Smartphone,2,23511.03,15.0,Cash on Delivery,3,5.0
+O0541,C1039,2025-11-21,35.0,Male,Indore,Madhya Pradesh,Books,Cookbook,1,355.35,0.0,UPI,4,4.0
+O0171,C1147,2025-03-17,39.0,Male,Delhi,Delhi,Books,Novel,2,503.54,10.0,Debit Card,2,4.0
+O0655,C1196,2025-07-08,43.0,Female,Surat,Gujarat,Electronics,Headphones,1,5229.46,10.0,Debit Card,4,5.0
+O0894,C1171,2025-03-15,54.0,Female,Hyderabad,Telangana,Electronics,Smartphone,1,43147.1,5.0,Credit Card,5,3.0
+O0041,C1235,2025-02-03,42.0,Male,Hyderabad,Telangana,Clothing,Jeans,2,2801.14,10.0,Cash on Delivery,3,4.0
+O0851,C1125,2025-04-03,44.0,Female,Bengaluru,Karnataka,Books,Novel,1,529.75,15.0,Debit Card,5,4.0
+O0948,C1013,2025-12-22,53.0,Female,Indore,Madhya Pradesh,Electronics,Smartphone,2,36025.89,20.0,UPI,4,5.0
+O0734,C1285,2025-07-15,24.0,Male,Delhi,Delhi,Electronics,Smartphone,2,46965.49,10.0,Net Banking,4,5.0
+O0096,C1221,2025-11-22,20.0,Female,Pune,Maharashtra,Clothing,Shoes,2,3294.7,10.0,Debit Card,5,5.0
+O0564,C1074,2025-10-13,33.0,Male,Surat,Gujarat,Clothing,Jacket,2,3782.66,15.0,UPI,2,4.0
+O0241,C1262,2025-04-10,53.0,Male,Surat,Gujarat,Home,Mixer,3,2180.4,10.0,Credit Card,3,4.0
+O0743,C1097,2025-09-16,59.0,Female,Hyderabad,Telangana,Clothing,Jeans,1,1459.4,5.0,UPI,4,4.0
+O0575,C1152,2025-08-12,45.0,Female,Vadodara,Gujarat,Books,Self-Help Book,1,628.39,0.0,Credit Card,5,3.0
+O0691,C1084,2025-12-08,24.0,Male,Vadodara,Gujarat,Home,Lamp,2,1317.85,10.0,Debit Card,3,5.0
+O0461,C1042,2025-08-09,31.0,Female,Ahmedabad,Gujarat,Clothing,T-Shirt,2,779.7,15.0,Net Banking,1,5.0
+O0554,C1181,2025-11-02,56.0,Female,Jaipur,Rajasthan,Beauty,Moisturizer,2,543.45,20.0,Debit Card,3,4.0
+O0882,C1030,2025-08-18,45.0,Female,Pune,Maharashtra,Books,Cookbook,1,658.52,10.0,Debit Card,6,3.0
+O0207,C1198,2025-01-13,23.0,Female,Surat,Gujarat,Clothing,Shoes,2,1901.8,10.0,Credit Card,4,4.0
+O0393,C1134,2025-12-10,49.0,Female,Delhi,Delhi,Books,Novel,1,245.65,0.0,UPI,4,4.0
+O0795,C1279,2025-05-09,21.0,Female,Bengaluru,Karnataka,Beauty,Moisturizer,2,789.62,5.0,Debit Card,5,4.0
+O0398,C1111,2025-09-13,57.0,Male,Mumbai,Maharashtra,Home,Mixer,2,4990.24,5.0,Cash on Delivery,1,4.0
+O0767,C1280,2025-03-10,50.0,Female,Pune,Maharashtra,Electronics,Smartphone,3,17275.03,0.0,Cash on Delivery,5,5.0
+O0852,C1042,2025-09-30,31.0,Female,Indore,Madhya Pradesh,Books,Programming Book,1,852.25,5.0,Cash on Delivery,1,5.0
+O0218,C1004,2025-08-21,60.0,Male,Jaipur,Rajasthan,Books,Novel,5,592.59,10.0,Net Banking,1,5.0
+O0005,C1106,2025-05-06,50.0,Female,Mumbai,Maharashtra,Books,Novel,3,429.67,15.0,UPI,1,4.0
+O0769,C1219,2025-04-26,36.0,Male,Pune,Maharashtra,Electronics,Smartphone,1,45793.37,10.0,Cash on Delivery,2,5.0
+O0643,C1207,2025-01-23,23.0,Female,Indore,Madhya Pradesh,Home,Cookware Set,1,3075.18,5.0,UPI,6,3.0
+O0901,C1263,2025-10-22,55.0,Female,Jaipur,Rajasthan,Clothing,T-Shirt,4,1164.69,10.0,Debit Card,6,4.0
+O0613,C1281,2025-06-13,31.0,Male,Jaipur,Rajasthan,Electronics,Smartphone,1,47030.85,0.0,Credit Card,4,5.0
+O0739,C1263,2025-01-01,55.0,Female,Hyderabad,Telangana,Books,Cookbook,2,328.68,10.0,UPI,4,5.0
+O0547,C1297,2025-04-11,44.0,Male,Mumbai,Maharashtra,Clothing,Jacket,1,4139.23,10.0,UPI,3,5.0
+O0726,C1243,2025-01-15,43.0,Male,Bengaluru,Karnataka,Clothing,Shoes,1,5149.89,15.0,Debit Card,4,5.0
+O0684,C1109,2025-07-08,54.0,Female,Vadodara,Gujarat,Clothing,T-Shirt,5,1047.17,10.0,Cash on Delivery,2,5.0
+O0099,C1263,2025-09-20,55.0,Female,Jaipur,Rajasthan,Home,Bedsheet,2,1645.29,0.0,Credit Card,2,5.0
+O0805,C1236,2025-07-11,40.0,Male,Surat,Gujarat,Books,Cookbook,1,621.65,10.0,Cash on Delivery,4,4.0
+O0728,C1081,2025-04-19,32.0,Male,Vadodara,Gujarat,Electronics,Laptop,3,79539.66,0.0,Cash on Delivery,5,4.0
+O0574,C1007,2025-10-19,56.0,Female,Jaipur,Rajasthan,Electronics,Headphones,5,7461.24,10.0,Credit Card,6,4.0
+O0407,C1196,2025-10-25,43.0,Female,Delhi,Delhi,Home,Lamp,3,1114.29,20.0,UPI,2,5.0
+O0503,C1031,2025-12-02,33.0,Male,Bengaluru,Karnataka,Home,Mixer,3,2092.33,10.0,UPI,2,5.0
+O0048,C1080,2025-09-25,46.0,Female,Pune,Maharashtra,Books,Cookbook,2,831.33,10.0,Net Banking,6,3.0
+O0033,C1285,2025-11-15,24.0,Male,Indore,Madhya Pradesh,Home,Mixer,1,3679.85,10.0,Credit Card,3,4.0
+O0780,C1177,2025-08-03,49.0,Female,Bengaluru,Karnataka,Home,Lamp,2,2323.74,5.0,Cash on Delivery,2,4.0
+O0840,C1274,2025-05-18,52.0,Male,Bengaluru,Karnataka,Electronics,Smartwatch,1,2875.25,10.0,Net Banking,3,4.0
+O0201,C1234,2025-08-09,45.0,Male,Vadodara,Gujarat,Electronics,Smartphone,1,17551.56,5.0,UPI,3,5.0
+O0135,C1224,2025-03-27,49.0,Male,Bengaluru,Karnataka,Books,Self-Help Book,2,610.81,10.0,UPI,3,5.0
+O0028,C1029,2025-11-09,59.0,Male,Delhi,Delhi,Electronics,Laptop,1,81427.45,5.0,UPI,2,5.0
+O0884,C1238,2025-09-11,47.0,Male,Pune,Maharashtra,Electronics,Smartwatch,2,7041.56,0.0,UPI,2,5.0
+O0231,C1237,2025-11-23,48.0,Female,Pune,Maharashtra,Electronics,Smartwatch,2,11489.5,5.0,UPI,5,4.0
+O0490,C1057,2025-12-28,23.0,Female,Surat,Gujarat,Beauty,Moisturizer,1,869.32,10.0,Cash on Delivery,4,5.0
+O0773,C1077,2025-05-15,43.0,Male,Jaipur,Rajasthan,Electronics,Headphones,1,6997.26,10.0,Net Banking,3,4.0
+O0379,C1220,2025-09-28,43.0,Male,Bengaluru,Karnataka,Electronics,Laptop,3,45840.84,15.0,Cash on Delivery,3,5.0
+O0289,C1183,2025-07-08,20.0,Male,Pune,Maharashtra,Home,Lamp,5,2491.26,10.0,Cash on Delivery,4,4.0
+O0419,C1052,2025-11-15,34.0,Female,Pune,Maharashtra,Books,Novel,3,467.33,5.0,Net Banking,2,4.0
+O0675,C1126,2025-01-23,26.0,Female,Pune,Maharashtra,Home,Bedsheet,1,810.89,15.0,Debit Card,2,5.0
+O0392,C1077,2025-10-24,43.0,Male,Pune,Maharashtra,Clothing,Shoes,1,5603.82,10.0,UPI,3,4.0
+O0593,C1193,2025-04-03,18.0,Female,Hyderabad,Telangana,Clothing,Jeans,1,1884.13,10.0,Credit Card,1,5.0
+O0499,C1069,2025-08-06,25.0,Female,Delhi,Delhi,Books,Self-Help Book,2,853.56,5.0,Credit Card,1,5.0
+O0139,C1186,2025-06-01,19.0,Female,Indore,Madhya Pradesh,Home,Cookware Set,2,3612.21,15.0,UPI,5,3.0
+O0063,C1007,2025-01-12,56.0,Female,Hyderabad,Telangana,Books,Novel,3,432.74,0.0,Cash on Delivery,2,5.0
+O0472,C1063,2025-04-18,51.0,Female,Ahmedabad,Gujarat,Clothing,Jeans,2,1223.87,10.0,Cash on Delivery,7,3.0
+O0648,C1101,2025-08-06,24.0,Male,Bengaluru,Karnataka,Books,Cookbook,2,307.56,0.0,Debit Card,3,5.0
+O0129,C1181,2025-04-24,56.0,Female,Vadodara,Gujarat,Books,Cookbook,1,389.67,15.0,UPI,3,3.0
+O0980,C1153,2025-07-08,45.0,Male,Vadodara,Gujarat,Home,Mixer,2,3911.89,5.0,Credit Card,2,5.0
+O0521,C1110,2025-01-03,52.0,Female,Hyderabad,Telangana,Clothing,Jeans,1,2463.75,5.0,Debit Card,1,5.0
+O0839,C1019,2025-10-05,41.0,Male,Hyderabad,Telangana,Beauty,Moisturizer,1,1163.47,15.0,Debit Card,2,5.0
+O0966,C1263,2025-11-03,55.0,Female,Indore,Madhya Pradesh,Beauty,Shampoo,1,459.45,0.0,Debit Card,1,5.0
+O0065,C1074,2025-07-12,33.0,Male,Pune,Maharashtra,Clothing,Jeans,4,1205.02,10.0,UPI,3,4.0
+O0813,C1222,2025-09-18,36.0,Male,Pune,Maharashtra,Books,Self-Help Book,2,678.26,10.0,Credit Card,4,4.0
+O0015,C1247,2025-03-03,22.0,Female,Indore,Madhya Pradesh,Electronics,Headphones,5,5939.34,15.0,Credit Card,6,5.0
+O0157,C1275,2025-10-10,33.0,Male,Jaipur,Rajasthan,Books,Cookbook,1,976.99,20.0,Debit Card,4,3.0
+O0041,C1235,2025-02-03,42.0,Male,Hyderabad,Telangana,Clothing,Jeans,2,2801.14,10.0,Cash on Delivery,3,4.0
+O0493,C1072,2025-05-18,57.0,Female,Ahmedabad,Gujarat,Home,Cookware Set,2,3104.27,0.0,Debit Card,2,4.0
+O0380,C1123,2025-05-27,31.0,Female,Hyderabad,Telangana,Electronics,Headphones,1,2575.6,0.0,Credit Card,3,5.0
+O0188,C1224,2025-02-11,49.0,Male,Pune,Maharashtra,Clothing,Shoes,2,2193.65,10.0,Debit Card,5,4.0
+O0764,C1164,2025-10-24,58.0,Female,Pune,Maharashtra,Electronics,Laptop,3,75852.93,10.0,Debit Card,1,5.0
+O0217,C1217,2025-08-06,37.0,Male,Delhi,Delhi,Clothing,T-Shirt,4,698.03,10.0,Net Banking,4,4.0
+O0792,C1002,2025-03-23,46.0,Female,Pune,Maharashtra,Clothing,Jeans,1,1536.02,10.0,UPI,2,5.0
+O0053,C1227,2025-12-25,50.0,Female,Mumbai,Maharashtra,Electronics,Smartphone,1,16843.93,0.0,Credit Card,4,4.0
+O0879,C1185,2025-10-06,34.0,Male,Delhi,Delhi,Clothing,T-Shirt,1,1443.24,0.0,Debit Card,2,5.0
+O0338,C1094,2025-08-02,52.0,Male,Bengaluru,Karnataka,Electronics,Laptop,2,71468.75,0.0,UPI,1,5.0
+O0749,C1187,2025-03-11,19.0,Female,Surat,Gujarat,Clothing,T-Shirt,1,1373.86,15.0,UPI,4,5.0
+O0720,C1146,2025-07-13,24.0,Female,Bengaluru,Karnataka,Electronics,Smartwatch,2,6290.24,15.0,UPI,3,5.0
+O0725,C1284,2025-07-12,25.0,Male,Bengaluru,Karnataka,Books,Self-Help Book,1,509.42,5.0,UPI,5,4.0
+O0296,C1064,2025-02-19,27.0,Male,Surat,Gujarat,Books,Novel,3,475.94,5.0,UPI,3,4.0
+O0702,C1069,2025-11-29,25.0,Female,Bengaluru,Karnataka,Clothing,Jeans,1,2342.44,10.0,Cash on Delivery,3,5.0
+O0252,C1059,2025-02-17,21.0,Female,Mumbai,Maharashtra,Home,Mixer,1,4829.55,0.0,Net Banking,4,5.0
+O0727,C1257,2025-02-20,41.0,Female,Bengaluru,Karnataka,Home,Mixer,1,3977.87,0.0,Credit Card,4,4.0
+O0462,C1083,2025-04-11,42.0,Male,Delhi,Delhi,Electronics,Smartphone,2,49403.14,10.0,Net Banking,3,4.0
+O0456,C1127,2025-01-05,32.0,Female,Hyderabad,Telangana,Home,Bedsheet,1,1736.2,10.0,Debit Card,3,5.0
+O1000,C1210,2025-10-14,33.0,Male,Pune,Maharashtra,Home,Lamp,2,1108.74,15.0,Debit Card,6,4.0
+O0816,C1208,2025-01-07,39.0,Male,Jaipur,Rajasthan,Electronics,Smartwatch,1,13071.81,10.0,Debit Card,4,3.0
+O0863,C1056,2025-01-04,19.0,Male,Indore,Madhya Pradesh,Clothing,Shoes,5,2750.4,15.0,Credit Card,5,4.0
+O0270,C1295,2025-11-05,25.0,Male,Ahmedabad,Gujarat,Electronics,Smartphone,1,22218.82,15.0,UPI,3,5.0
+O0202,C1231,2025-08-02,57.0,Female,Ahmedabad,Gujarat,Clothing,T-Shirt,5,1332.62,10.0,Credit Card,4,4.0
+O0162,C1156,2025-10-30,28.0,Female,Bengaluru,Karnataka,Home,Bedsheet,5,1879.51,0.0,UPI,3,4.0
+O0556,C1095,2025-05-15,50.0,Female,Surat,Gujarat,Clothing,Jeans,2,2764.82,5.0,Debit Card,3,5.0
+O0730,C1173,2025-02-07,59.0,Male,Hyderabad,Telangana,Home,Bedsheet,1,2377.44,20.0,UPI,4,4.0
+O0402,C1192,2025-02-04,50.0,Female,Surat,Gujarat,Home,Bedsheet,4,1642.13,15.0,Cash on Delivery,5,4.0
+O0703,C1077,2025-06-12,43.0,Male,Indore,Madhya Pradesh,Electronics,Headphones,2,4789.12,10.0,Debit Card,7,3.0
+O0477,C1283,2025-06-01,37.0,Female,Mumbai,Maharashtra,Electronics,Headphones,1,6291.15,15.0,Net Banking,2,5.0
+O0822,C1003,2025-09-07,32.0,Female,Jaipur,Rajasthan,Clothing,T-Shirt,2,1328.61,5.0,UPI,6,4.0
+O0772,C1185,2025-01-18,34.0,Male,Vadodara,Gujarat,Beauty,Shampoo,1,541.1,5.0,Credit Card,3,4.0
+O0106,C1264,2025-09-15,57.0,Male,Surat,Gujarat,Books,Self-Help Book,1,596.42,5.0,Debit Card,7,4.0
+O0566,C1258,2025-05-07,50.0,Male,Vadodara,Gujarat,Clothing,Jeans,3,2923.23,10.0,Debit Card,5,5.0
+O0390,C1158,2025-03-29,,Female,Jaipur,Rajasthan,Books,Self-Help Book,2,408.47,5.0,UPI,2,4.0
+O0002,C1034,2025-02-23,54.0,Male,Jaipur,Rajasthan,Clothing,Shoes,2,4522.08,15.0,Credit Card,5,4.0
+O0941,C1229,2025-11-02,56.0,Female,Vadodara,Gujarat,Clothing,Shoes,1,3034.58,15.0,Cash on Delivery,3,4.0
+O0986,C1298,2025-05-30,51.0,Male,Mumbai,Maharashtra,Electronics,Laptop,2,69005.62,5.0,Credit Card,4,5.0
+O0562,C1250,2025-02-27,26.0,Male,Indore,Madhya Pradesh,Beauty,Moisturizer,4,1340.19,15.0,UPI,3,5.0
+O0081,C1020,2025-10-22,47.0,Male,Ahmedabad,Gujarat,Clothing,Jeans,2,2027.99,0.0,Credit Card,4,5.0
+O0206,C1121,2025-06-26,22.0,Female,Bengaluru,Karnataka,Clothing,Jacket,1,4496.68,15.0,Cash on Delivery,3,5.0
+O0035,C1055,2025-04-07,21.0,male,Jaipur,Rajasthan,Electronics,Smartphone,1,38062.34,5.0,UPI,4,4.0
+O0776,C1243,2025-05-11,43.0,Male,Jaipur,Rajasthan,Books,Programming Book,4,1489.66,15.0,UPI,2,5.0
+O0509,C1059,2025-02-18,21.0,Female,Bengaluru,Karnataka,Home,Bedsheet,3,1331.4,10.0,Cash on Delivery,6,2.0
+O0428,C1001,2025-07-28,56.0,Female,Delhi,Delhi,Home,Cookware Set,1,2745.85,10.0,Cash on Delivery,3,5.0
+O0455,C1013,2025-09-15,53.0,Female,Hyderabad,Telangana,Clothing,Jacket,1,3448.98,15.0,Cash on Delivery,4,5.0
+O0367,C1088,2025-12-14,25.0,Male,Bengaluru,Karnataka,Books,Novel,1,616.6,20.0,Debit Card,6,3.0
+O0092,C1053,2025-03-30,53.0,Male,Hyderabad,Telangana,Home, laptop,1,2915.44,10.0,UPI,5,4.0
+O0340,C1144,2025-10-10,30.0,Female,Hyderabad,Telangana,Electronics,Smartwatch,1,9854.4,20.0,Credit Card,2,5.0
+O0898,C1039,2025-12-03,35.0,Male,Surat,Gujarat,Clothing,Jeans,2,1779.31,5.0,UPI,4,4.0
+O0565,C1022,2025-07-20,19.0,Male,Vadodara,Gujarat,Electronics,Laptop,2,78701.53,20.0,UPI,3,4.0
+O0346,C1148,2025-10-27,45.0,Male,Vadodara,Gujarat,Home,Cookware Set,1,2889.47,10.0,Credit Card,4,4.0
+O0777,C1224,2025-09-12,49.0,Male,Hyderabad,Telangana,Home,Bedsheet,1,720.75,5.0,UPI,7,3.0
+O0242,C1032,2025-06-11,32.0,Male,Vadodara,Gujarat,Clothing,Shoes,3,1572.28,0.0,Cash on Delivery,4,3.0
+O0014,C1150,2025-05-17,59.0,Female,Jaipur,Rajasthan,Electronics,Smartphone,3,32073.34,0.0,Cash on Delivery,1,5.0
+O0316,C1184,2025-05-17,54.0,Male,Hyderabad,Telangana,Clothing,T-Shirt,3,946.4,20.0,UPI,3,5.0
+O0601,C1139,2025-08-18,56.0,Male,Ahmedabad,Gujarat,Beauty,Shampoo,4,947.34,0.0,Credit Card,4,4.0
+O0388,C1180,2025-12-09,29.0,Female,Pune,Maharashtra,Books,Novel,1,546.03,5.0,Credit Card,3,5.0
+O0274,C1292,2025-08-09,47.0,Female,Bengaluru,Karnataka,Beauty,Moisturizer,1,1478.05,10.0,Net Banking,2,5.0
+O0167,C1164,2025-07-15,58.0,Female,Bengaluru,Karnataka,Electronics,Smartphone,1,15434.14,5.0,Credit Card,3,5.0
+O0841,C1183,2025-03-21,20.0,Male,Indore,Madhya Pradesh,Electronics,Smartphone,4,35144.23,15.0,UPI,2,5.0
+O0996,C1231,2025-10-13,57.0,Female,Surat,Gujarat,Clothing,Shoes,2,4171.59,10.0,UPI,3,5.0
+O0647,C1054,2025-08-01,57.0,Female,Jaipur,Rajasthan,Electronics,Headphones,1,1391.7,15.0,Credit Card,4,4.0
+O0819,C1104,2025-10-01,29.0,Male,Bengaluru,Karnataka,Books,Novel,3,486.75,5.0,Cash on Delivery,1,5.0
+O0485,C1179,2025-11-18,58.0,Male,Delhi,Delhi,Electronics,Smartwatch,1,13047.66,5.0,UPI,6,4.0
+O0984,C1050,2025-10-02,52.0,Female,Indore,Madhya Pradesh,Home,Bedsheet,1,1928.76,10.0,Cash on Delivery,3,4.0
+O0505,C1220,2025-03-28,43.0,Male,Pune,Maharashtra,Home,Mixer,2,4657.96,5.0,Debit Card,3,5.0
+O0832,C1107,2025-03-09,40.0,Male,Bengaluru,Karnataka,Electronics,Laptop,2,71460.97,10.0,Credit Card,1,5.0
+O0244,C1147,2025-11-09,39.0,Male,Hyderabad,Telangana,Clothing,Jacket,2,4388.13,10.0,UPI,5,4.0
+O0567,C1104,2025-03-28,29.0,Male,Ahmedabad,Gujarat,Beauty,Moisturizer,1,1156.33,10.0,Cash on Delivery,3,4.0
+O0876,C1126,2025-05-15,26.0,Female,Pune,Maharashtra,Clothing,Shoes,1,4184.84,10.0,UPI,1,5.0
+O0563,C1009,2025-04-14,40.0,Female,Bengaluru,Karnataka,Beauty,Perfume,3,1333.72,10.0,UPI,3,4.0
+O0687,C1173,2025-05-17,59.0,Male,Hyderabad,Telangana,Electronics,Headphones,3,5344.38,5.0,UPI,5,4.0
+O0190,C1139,2025-12-07,56.0,Male,Ahmedabad,Gujarat,Electronics,Laptop,1,74383.12,5.0,Cash on Delivery,3,5.0
+O0783,C1024,2025-06-04,50.0,Male,Pune,Maharashtra,Books,Novel,2,245.74,5.0,UPI,5,4.0
+O0700,C1272,2025-09-15,35.0,Male,Pune,Maharashtra,Electronics,Headphones,2,2320.08,10.0,UPI,3,5.0
+O0476,C1201,2025-01-17,28.0,Female,Surat,Gujarat,Electronics,Smartphone,1,48192.93,0.0,Net Banking,3,5.0
+O0682,C1278,2025-10-12,50.0,Male,Ahmedabad,Gujarat,Clothing,T-Shirt,3,998.59,10.0,Debit Card,3,5.0
+O0511,C1001,2025-04-19,56.0,Female,Delhi,Delhi,Clothing,SHOES ,2,2874.18,10.0,Credit Card,2,4.0
+O0059,C1267,2025-05-04,42.0,Male,Bengaluru,Karnataka,Books,Programming Book,3,557.69,0.0,UPI,6,3.0
+O0475,C1227,2025-03-28,50.0,Female,Bengaluru,Karnataka,Electronics,Headphones,2,4189.03,5.0,UPI,2,5.0
+O0561,C1092,2025-08-11,25.0,Female,Pune,Maharashtra,Beauty,Shampoo,5,341.03,15.0,Credit Card,4,4.0
+O0857,C1288,2025-07-01,50.0,Female,Indore,Madhya Pradesh,Home,Bedsheet,1,1512.56,15.0,Debit Card,3,3.0
+O0748,C1253,2025-07-10,36.0,Female,Hyderabad,Telangana,Books,Self-Help Book,1,818.99,5.0,UPI,4,4.0
+O0253,C1248,2025-10-15,54.0,Male,Bengaluru,Karnataka,Home,Bedsheet,2,790.88,5.0,Net Banking,3,5.0
+O0022,C1104,2025-04-21,29.0,Male,Surat,Gujarat,Electronics,Headphones,1,4134.39,10.0,Debit Card,2,5.0
+O0314,C1156,2025-08-02,28.0,Female,Surat,Gujarat,Home,Bedsheet,1,1046.16,10.0,Credit Card,3,5.0
+O0460,C1182,2025-03-16,19.0,Male,Pune,Maharashtra,Home,Lamp,1,2453.93,10.0,Credit Card,5,4.0
+O0161,C1176,2025-09-05,49.0,Male,Pune,Maharashtra,Home,Mixer,3,4379.83,5.0,UPI,4,4.0
+O0277,C1048,2025-07-11,24.0,Male,Bengaluru,Karnataka,Electronics,Smartwatch,3,"45,000",15.0,Cash on Delivery,3,5.0
+O0956,C1112,2025-10-30,39.0,Male,Indore,Madhya Pradesh,Electronics,Laptop,1,76542.07,0.0,Debit Card,7,3.0
+O0192,C1246,2025-05-27,29.0,Male,Pune,Maharashtra,Beauty,Moisturizer,1,1253.05,15.0,Net Banking,2,5.0
+O0386,C1076,2025-02-14,41.0,Female,Bengaluru,Karnataka,Electronics,Smartphone,3,37661.03,5.0,Debit Card,7,4.0
+O0806,C1086,2025-02-02,41.0,Male,Pune,Maharashtra,Electronics,Smartwatch,1,12574.63,10.0,Credit Card,6,4.0
+O0414,C1069,2025-04-10,25.0,Female,Surat,Gujarat,Books,Cookbook,1,338.31,5.0,UPI,1,5.0
+O0492,C1145,2025-09-09,49.0,Male,Jaipur,Rajasthan,Clothing,Jeans,3,1212.43,15.0,Debit Card,2,4.0
+O0344,C1148,2025-10-02,45.0,Male,Mumbai,Maharashtra,Beauty,Shampoo,1,555.79,0.0,Cash on Delivery,4,4.0
+O0770,C1074,2025-01-24,33.0,Male,Delhi,Delhi,Home,Cookware Set,4,2718.09,10.0,Credit Card,7,3.0
+O0309,C1189,2025-04-04,40.0,Female,Delhi,Delhi,Electronics,Smartphone,2,30049.48,20.0,Debit Card,3,4.0
+O0662,C1187,2025-04-28,19.0,Female,Indore,Madhya Pradesh,Home,Cookware Set,2,1653.58,10.0,UPI,2,5.0
+O0131,C1119,2025-08-12,20.0,Female,Bengaluru,Karnataka,Books,Cookbook,2,680.81,5.0,Net Banking,4,3.0
+O0664,C1257,2025-02-26,41.0,Female,Delhi,Delhi,Books,Novel,1,225.23,15.0,Credit Card,5,3.0
+O0872,C1152,2025-02-08,45.0,Female,Surat,Gujarat,Electronics,Smartwatch,3,12533.49,5.0,Debit Card,3,4.0
+O0100,C1172,2025-05-01,50.0,Male,Jaipur,Rajasthan,Electronics,Smartphone,2,37329.48,10.0,Cash on Delivery,4,5.0
+O0373,C1047,2025-03-07,45.0,Male,Mumbai,Maharashtra,Books,Programming Book,2,1298.72,5.0,Credit Card,3,4.0
+O0088,C1059,2025-08-05,21.0,Female,Surat,Gujarat,Clothing,T-Shirt,1,554.04,20.0,Net Banking,1,5.0
+O0459,C1123,2025-09-01,31.0,Female,Mumbai,Maharashtra,Electronics,Laptop,3,78544.36,5.0,UPI,3,3.0
+O0331,C1296,2025-07-20,44.0,Male,Mumbai,Maharashtra,Electronics,Smartwatch,1,7739.79,15.0,Credit Card,2,5.0
+O0215,C1283,2025-05-06,37.0,Female,Bengaluru,Karnataka,Home,Bedsheet,1,916.37,0.0,UPI,5,2.0
+O0467,C1027,2025-07-05,42.0,Female,Mumbai,Maharashtra,Clothing,Shoes,2,4906.17,15.0,Net Banking,3,5.0
+O0122,C1183,2025-02-11,20.0,Male,Mumbai,Maharashtra,Electronics,Smartphone,1,45263.11,10.0,Cash on Delivery,4,5.0
+O0615,C1230,2025-12-09,35.0,Female,Vadodara,Gujarat,Beauty,Face Wash,1,632.29,5.0,Credit Card,4,4.0
+O0021,C1042,2025-08-13,31.0,Female,Indore,Madhya Pradesh,Clothing,Shoes,1,3476.11,10.0,UPI,4,3.0
+O0701,C1178,2025-08-04,41.0,Female,Indore,Madhya Pradesh,Electronics,Smartphone,3,41334.32,10.0,Debit Card,3,4.0
+O0072,C1228,2025-03-05,57.0,Female,Bengaluru,Karnataka,Home,Cookware Set,2,2062.89,5.0,Credit Card,3,5.0
+O0107,C1102,2025-07-27,26.0,Male,Jaipur,Rajasthan,Home,Bedsheet,1,1537.37,10.0,Net Banking,2,4.0
+O0271,C1193,2025-03-14,18.0,Female,Bengaluru,Karnataka,Electronics,Laptop,1,71929.86,15.0,UPI,4,4.0
+O0861,C1030,2025-05-08,45.0,Female,Delhi,Delhi,Clothing,Shoes,3,2260.76,0.0,Credit Card,3,5.0
+O0436,C1118,2025-05-24,31.0,Male,Mumbai,Maharashtra,Home,Bedsheet,3,2149.18,5.0,UPI,3,5.0
+O0103,C1011,2025-08-29,28.0,Male,Bengaluru,Karnataka,Electronics,Smartphone,5,32386.84,0.0,Debit Card,3,5.0
